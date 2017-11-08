@@ -1,0 +1,141 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.mobility.jmeter</groupId>
+	<artifactId>performance</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>performance</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<junit.version>4.11</junit.version>
+		<jmeter.analysis.maven.plugin.version>1.0.6</jmeter.analysis.maven.plugin.version>
+		<jmeter-maven-plugin.version>2.0.3</jmeter-maven-plugin.version>
+		<maven-compiler.version>3.5.1</maven-compiler.version>
+		<jave-source>1.7</jave-source>
+		<jmeter.version>2.9</jmeter.version>
+		<timestamp>${maven.build.timestamp}</timestamp>
+		<maven.build.timestamp.format>YYYY/MM/dd HH:mm:ss</maven.build.timestamp.format>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>${maven-compiler.version}</version>
+				<configuration>
+					<source>${jave-source}</source>
+					<target>${jave-source}</target>
+				</configuration>
+			</plugin>
+
+			<!-- execute JMeter test -->
+			<plugin>
+				<groupId>com.lazerycode.jmeter</groupId>
+				<artifactId>jmeter-maven-plugin</artifactId>
+				<version>${jmeter-maven-plugin.version}</version>
+				<configuration>
+					<jmeterVersion>${jmeter-version}</jmeterVersion>
+					<goalPrefix>jmeter</goalPrefix>
+					<testResultsTimestamp>false</testResultsTimestamp>
+					<appendResultsTimestamp>false</appendResultsTimestamp>
+					<ignoreResultFailures>true</ignoreResultFailures>
+					<jMeterProcessJVMSettings>
+						<xms>1024</xms>
+						<xmx>1024</xmx>
+						<arguments>
+							<argument>-Xprof</argument>
+							<argument>-Xfuture</argument>
+						</arguments>
+					</jMeterProcessJVMSettings>
+					<!-- <resultsFileFormat>csv</resultsFileFormat> -->
+				</configuration>
+				<executions>
+					<execution>
+						<id>jmeter-tests</id>
+						<phase>test</phase>
+						<goals>
+							<goal>jmeter</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+	<!-- <plugin> <groupId>com.lazerycode.jmeter</groupId> <artifactId>jmeter-analysis-maven-plugin</artifactId> 
+		<version>${jmeter.analysis.maven.plugin.version}</version> <executions> <execution> 
+		<phase>verify</phase> <goals> <goal>analyze</goal> </goals> <configuration> 
+		<source>${project.build.directory}/jmeter/results/*.jtl</source> <targetDirectory>${project.build.directory}/reports</targetDirectory> 
+		<processAllFilesFound>true</processAllFilesFound> </configuration> </execution> 
+		</executions> </plugin> -->
+			<plugin> <groupId>org.codehaus.mojo</groupId> <artifactId>exec-maven-plugin</artifactId> 
+				<executions> <execution> <id>report</id> <phase>verify</phase> <goals> <goal>exec</goal> 
+				</goals> </execution> </executions> <configuration> <classpathScope>test</classpathScope> 
+				<mainClass>com.mobility.performance.JmeterReportExecutor</mainClass> <environmentVariables> 
+				<timestamp>${timestamp}</timestamp> </environmentVariables> </configuration> 
+				</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+			<version>2.8.7</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.8.7</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-annotations</artifactId>
+			<version>2.8.7</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
+			<version>2.8.7</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>2.3</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.thoughtworks.xstream/xstream -->
+		<dependency>
+			<groupId>com.thoughtworks.xstream</groupId>
+			<artifactId>xstream</artifactId>
+			<version>1.4.7</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-io -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>1.3.2</version>
+		</dependency>
+
+
+	</dependencies>
+	<description>mvn clean test exec:java</description>
+</project>

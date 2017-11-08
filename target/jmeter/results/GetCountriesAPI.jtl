@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1810" it="0" lt="1303" ts="1505298335178" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="7825" ng="20" na="20"/>
+<httpSample t="1926" it="0" lt="1419" ts="1505298335062" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7825" ng="20" na="20"/>
+<httpSample t="1908" it="0" lt="1401" ts="1505298335080" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7825" ng="20" na="20"/>
+<httpSample t="1607" it="0" lt="1100" ts="1505298335381" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="7825" ng="20" na="20"/>
+<httpSample t="1708" it="0" lt="1201" ts="1505298335280" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="7825" ng="20" na="20"/>
+<httpSample t="1501" it="0" lt="994" ts="1505298335487" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="7825" ng="20" na="20"/>
+<sample t="1720" it="0" lt="1201" ts="1505298335280" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="7825" ng="20" na="20"/>
+<sample t="1618" it="0" lt="1100" ts="1505298335381" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="7825" ng="20" na="20"/>
+<sample t="1919" it="0" lt="1401" ts="1505298335080" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="7825" ng="20" na="20"/>
+<sample t="2023" it="0" lt="1419" ts="1505298334975" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7825" ng="20" na="20"/>
+<sample t="1821" it="0" lt="1303" ts="1505298335178" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="7825" ng="20" na="20"/>
+<sample t="1514" it="0" lt="994" ts="1505298335486" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="7825" ng="20" na="20"/>
+<httpSample t="1827" it="0" lt="1309" ts="1505298335685" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="7825" ng="26" na="26"/>
+<httpSample t="1726" it="0" lt="1216" ts="1505298335786" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="7825" ng="26" na="26"/>
+<sample t="1828" it="0" lt="1309" ts="1505298335685" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="7825" ng="26" na="26"/>
+<httpSample t="1929" it="0" lt="1412" ts="1505298335584" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="7825" ng="26" na="26"/>
+<httpSample t="1524" it="0" lt="1015" ts="1505298335989" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="7825" ng="26" na="26"/>
+<sample t="1727" it="0" lt="1216" ts="1505298335786" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="7825" ng="26" na="26"/>
+<httpSample t="1623" it="0" lt="1114" ts="1505298335889" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="7825" ng="26" na="26"/>
+<sample t="1525" it="0" lt="1015" ts="1505298335989" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-11" dt="" by="7825" ng="26" na="26"/>
+<sample t="1930" it="0" lt="1412" ts="1505298335584" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="7825" ng="26" na="26"/>
+<sample t="1625" it="0" lt="1114" ts="1505298335889" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="7825" ng="26" na="26"/>
+<httpSample t="515" it="0" lt="515" ts="1505298337000" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="7822" ng="26" na="26"/>
+<sample t="516" it="0" lt="515" ts="1505298337000" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="7822" ng="26" na="26"/>
+<httpSample t="517" it="0" lt="515" ts="1505298337000" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7822" ng="26" na="26"/>
+<sample t="518" it="0" lt="515" ts="1505298337000" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7822" ng="26" na="26"/>
+<httpSample t="518" it="0" lt="518" ts="1505298337000" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="7822" ng="26" na="26"/>
+<sample t="519" it="0" lt="518" ts="1505298337000" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="7822" ng="26" na="26"/>
+<httpSample t="519" it="0" lt="519" ts="1505298337000" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7822" ng="26" na="26"/>
+<sample t="520" it="0" lt="519" ts="1505298337000" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="7822" ng="26" na="26"/>
+<httpSample t="517" it="0" lt="517" ts="1505298337001" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="7822" ng="26" na="26"/>
+<sample t="519" it="0" lt="517" ts="1505298337001" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="7822" ng="26" na="26"/>
+<httpSample t="519" it="0" lt="519" ts="1505298337001" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="7822" ng="26" na="26"/>
+<sample t="520" it="0" lt="519" ts="1505298337000" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="7822" ng="26" na="26"/>
+<httpSample t="1543" it="0" lt="1020" ts="1505298336494" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="7825" ng="31" na="31"/>
+<httpSample t="1643" it="0" lt="1119" ts="1505298336394" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="7825" ng="31" na="31"/>
+<httpSample t="1948" it="0" lt="1424" ts="1505298336089" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="7825" ng="31" na="31"/>
+<httpSample t="1746" it="0" lt="1222" ts="1505298336291" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="7825" ng="31" na="31"/>
+<sample t="1950" it="0" lt="1424" ts="1505298336088" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-12" dt="" by="7825" ng="31" na="31"/>
+<httpSample t="1847" it="0" lt="1324" ts="1505298336190" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="7825" ng="31" na="31"/>
+<sample t="1644" it="0" lt="1119" ts="1505298336394" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-15" dt="" by="7825" ng="31" na="31"/>
+<sample t="1543" it="0" lt="1020" ts="1505298336494" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-16" dt="" by="7825" ng="31" na="31"/>
+<sample t="1848" it="0" lt="1324" ts="1505298336190" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-13" dt="" by="7825" ng="31" na="31"/>
+<sample t="1747" it="0" lt="1222" ts="1505298336291" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-14" dt="" by="7825" ng="31" na="31"/>
+<httpSample t="532" it="0" lt="532" ts="1505298337515" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="7822" ng="31" na="31"/>
+<httpSample t="533" it="0" lt="533" ts="1505298337514" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="7822" ng="31" na="31"/>
+<sample t="533" it="0" lt="532" ts="1505298337515" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="7822" ng="31" na="31"/>
+<sample t="534" it="0" lt="533" ts="1505298337514" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="7822" ng="31" na="31"/>
+<httpSample t="534" it="0" lt="533" ts="1505298337515" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="7822" ng="31" na="31"/>
+<sample t="534" it="0" lt="533" ts="1505298337515" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="7822" ng="31" na="31"/>
+<httpSample t="534" it="0" lt="534" ts="1505298337515" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="7822" ng="31" na="31"/>
+<sample t="536" it="0" lt="534" ts="1505298337514" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-11" dt="" by="7822" ng="31" na="31"/>
+<httpSample t="1864" it="0" lt="1352" ts="1505298336695" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="7825" ng="36" na="36"/>
+<sample t="1865" it="0" lt="1352" ts="1505298336695" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-18" dt="" by="7825" ng="36" na="36"/>
+<httpSample t="1766" it="0" lt="1254" ts="1505298336794" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="7825" ng="36" na="36"/>
+<httpSample t="1662" it="0" lt="1149" ts="1505298336898" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="7825" ng="36" na="36"/>
+<sample t="1663" it="0" lt="1149" ts="1505298336898" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-20" dt="" by="7825" ng="36" na="36"/>
+<httpSample t="524" it="0" lt="523" ts="1505298338038" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="7822" ng="36" na="36"/>
+<httpSample t="1562" it="0" lt="1050" ts="1505298336998" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="7825" ng="36" na="36"/>
+<sample t="1565" it="0" lt="1050" ts="1505298336998" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-21" dt="" by="7825" ng="36" na="36"/>
+<sample t="1767" it="0" lt="1254" ts="1505298336794" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-19" dt="" by="7825" ng="36" na="36"/>
+<httpSample t="523" it="0" lt="523" ts="1505298338039" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="7822" ng="36" na="36"/>
+<httpSample t="523" it="0" lt="523" ts="1505298338038" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="7822" ng="36" na="36"/>
+<sample t="526" it="0" lt="523" ts="1505298338039" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-14" dt="" by="7822" ng="36" na="36"/>
+<httpSample t="1965" it="0" lt="1452" ts="1505298336595" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="7825" ng="36" na="36"/>
+<httpSample t="526" it="0" lt="526" ts="1505298338039" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="7822" ng="36" na="36"/>
+<sample t="525" it="0" lt="523" ts="1505298338038" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-15" dt="" by="7822" ng="36" na="36"/>
+<sample t="528" it="0" lt="526" ts="1505298338038" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-16" dt="" by="7822" ng="36" na="36"/>
+<sample t="1971" it="0" lt="1452" ts="1505298336595" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-17" dt="" by="7825" ng="36" na="36"/>
+<httpSample t="526" it="0" lt="526" ts="1505298338039" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="7822" ng="36" na="36"/>
+<sample t="527" it="0" lt="523" ts="1505298338038" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-12" dt="" by="7822" ng="36" na="36"/>
+<sample t="527" it="0" lt="526" ts="1505298338039" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-13" dt="" by="7822" ng="36" na="36"/>
+<httpSample t="1057" it="0" lt="1057" ts="1505298337519" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1573" ng="36" na="36"/>
+<httpSample t="1057" it="0" lt="1057" ts="1505298337519" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1573" ng="36" na="36"/>
+<httpSample t="1056" it="0" lt="1056" ts="1505298337520" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1573" ng="36" na="36"/>
+<httpSample t="1055" it="0" lt="1055" ts="1505298337521" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1573" ng="36" na="36"/>
+<httpSample t="1056" it="0" lt="1056" ts="1505298337520" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1573" ng="36" na="36"/>
+<httpSample t="1057" it="0" lt="1057" ts="1505298337519" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1573" ng="36" na="36"/>
+<sample t="1059" it="0" lt="1056" ts="1505298337520" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1573" ng="36" na="36"/>
+<sample t="1059" it="0" lt="1055" ts="1505298337520" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1573" ng="36" na="36"/>
+<sample t="1058" it="0" lt="1056" ts="1505298337520" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1573" ng="36" na="36"/>
+<sample t="1062" it="0" lt="1057" ts="1505298337516" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1573" ng="36" na="36"/>
+<sample t="1059" it="0" lt="1057" ts="1505298337519" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1573" ng="36" na="36"/>
+<sample t="1060" it="0" lt="1057" ts="1505298337519" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1573" ng="36" na="36"/>
+<httpSample t="1784" it="0" lt="1261" ts="1505298337300" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1784" it="0" lt="1261" ts="1505298337300" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-24" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1484" it="0" lt="961" ts="1505298337602" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1486" it="0" lt="961" ts="1505298337601" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-27" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1888" it="0" lt="1366" ts="1505298337199" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1888" it="0" lt="1366" ts="1505298337199" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-23" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1986" it="0" lt="1464" ts="1505298337101" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1987" it="0" lt="1464" ts="1505298337101" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-22" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1690" it="0" lt="1166" ts="1505298337399" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1690" it="0" lt="1166" ts="1505298337399" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-25" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1586" it="0" lt="1062" ts="1505298337503" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1587" it="0" lt="1062" ts="1505298337503" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-26" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1044" it="0" lt="1044" ts="1505298338048" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="1042" it="0" lt="1042" ts="1505298338050" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="1042" it="0" lt="1042" ts="1505298338050" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-11" dt="text" by="1573" ng="41" na="41"/>
+<sample t="1044" it="0" lt="1042" ts="1505298338049" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1573" ng="41" na="41"/>
+<httpSample t="513" it="0" lt="513" ts="1505298338579" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1044" it="0" lt="1044" ts="1505298338048" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1573" ng="41" na="41"/>
+<sample t="518" it="0" lt="513" ts="1505298338579" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="530" it="0" lt="529" ts="1505298338564" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="513" it="0" lt="513" ts="1505298338580" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1045" it="0" lt="1044" ts="1505298338048" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1573" ng="41" na="41"/>
+<httpSample t="532" it="0" lt="532" ts="1505298338561" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="513" it="0" lt="513" ts="1505298338580" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="513" it="0" lt="513" ts="1505298338579" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="514" it="0" lt="514" ts="1505298338579" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="514" it="0" lt="514" ts="1505298338579" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1043" it="0" lt="1042" ts="1505298338050" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-11" dt="" by="1573" ng="41" na="41"/>
+<sample t="536" it="0" lt="532" ts="1505298338561" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-20" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="539" it="0" lt="539" ts="1505298338560" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="7822" ng="40" na="40"/>
+<sample t="518" it="0" lt="513" ts="1505298338579" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1507" ng="41" na="41"/>
+<sample t="519" it="0" lt="514" ts="1505298338579" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="533" it="0" lt="533" ts="1505298338566" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="7822" ng="40" na="40"/>
+<sample t="533" it="0" lt="529" ts="1505298338564" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-19" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="535" it="0" lt="535" ts="1505298338564" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="7822" ng="40" na="40"/>
+<sample t="534" it="0" lt="533" ts="1505298338566" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-17" dt="" by="7822" ng="40" na="40"/>
+<sample t="519" it="0" lt="513" ts="1505298338579" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1507" ng="41" na="41"/>
+<sample t="519" it="0" lt="513" ts="1505298338579" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1507" ng="41" na="41"/>
+<sample t="520" it="0" lt="514" ts="1505298338579" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1507" ng="41" na="41"/>
+<sample t="539" it="0" lt="539" ts="1505298338560" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-18" dt="" by="7822" ng="40" na="40"/>
+<sample t="1049" it="0" lt="1044" ts="1505298338048" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1573" ng="41" na="41"/>
+<sample t="536" it="0" lt="535" ts="1505298338564" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-21" dt="" by="7822" ng="40" na="40"/>
+<httpSample t="1907" it="0" lt="1392" ts="1505298337701" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="7825" ng="40" na="40"/>
+<httpSample t="1707" it="0" lt="1193" ts="1505298337901" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="7825" ng="40" na="40"/>
+<sample t="1708" it="0" lt="1193" ts="1505298337901" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-30" dt="" by="7825" ng="40" na="40"/>
+<httpSample t="1804" it="0" lt="1289" ts="1505298337804" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="7825" ng="40" na="40"/>
+<sample t="1806" it="0" lt="1289" ts="1505298337803" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-29" dt="" by="7825" ng="40" na="40"/>
+<httpSample t="1042" it="0" lt="1042" ts="1505298338567" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-12" dt="text" by="1573" ng="40" na="40"/>
+<sample t="1044" it="0" lt="1042" ts="1505298338566" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-12" dt="" by="1573" ng="40" na="40"/>
+<httpSample t="1043" it="0" lt="1043" ts="1505298338566" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-14" dt="text" by="1573" ng="40" na="40"/>
+<sample t="1045" it="0" lt="1043" ts="1505298338565" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-14" dt="" by="1573" ng="40" na="40"/>
+<httpSample t="522" it="0" lt="522" ts="1505298339088" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="7822" ng="40" na="40"/>
+<sample t="523" it="0" lt="522" ts="1505298339088" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-22" dt="" by="7822" ng="40" na="40"/>
+<httpSample t="1504" it="0" lt="990" ts="1505298338104" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="7825" ng="40" na="40"/>
+<sample t="1908" it="0" lt="1392" ts="1505298337701" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-28" dt="" by="7825" ng="40" na="40"/>
+<httpSample t="1043" it="0" lt="1043" ts="1505298338566" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-16" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="1042" it="0" lt="1042" ts="1505298338567" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-13" dt="text" by="1573" ng="40" na="40"/>
+<httpSample t="1043" it="0" lt="1043" ts="1505298338566" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-15" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="1603" it="0" lt="1094" ts="1505298338005" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="7825" ng="40" na="40"/>
+<sample t="1046" it="0" lt="1043" ts="1505298338566" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-15" dt="" by="1573" ng="41" na="41"/>
+<httpSample t="525" it="0" lt="525" ts="1505298339087" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="7822" ng="41" na="41"/>
+<sample t="525" it="0" lt="525" ts="1505298339087" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-27" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="523" it="0" lt="523" ts="1505298339089" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="522" it="0" lt="522" ts="1505298339090" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="7822" ng="41" na="41"/>
+<sample t="1046" it="0" lt="1042" ts="1505298338566" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-13" dt="" by="1573" ng="40" na="40"/>
+<httpSample t="516" it="0" lt="516" ts="1505298339093" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1507" ng="40" na="40">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="509" it="0" lt="509" ts="1505298339101" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1507" ng="40" na="40">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="512" it="0" lt="512" ts="1505298339098" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1507" ng="40" na="40">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="511" it="0" lt="510" ts="1505298339099" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-11" dt="text" by="1507" ng="40" na="40">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1046" it="0" lt="1043" ts="1505298338566" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-16" dt="" by="1573" ng="41" na="41"/>
+<sample t="1508" it="0" lt="990" ts="1505298338103" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-32" dt="" by="7825" ng="40" na="40"/>
+<sample t="515" it="0" lt="510" ts="1505298339099" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-11" dt="" by="1507" ng="40" na="40"/>
+<sample t="517" it="0" lt="512" ts="1505298339097" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1507" ng="40" na="40"/>
+<sample t="512" it="0" lt="509" ts="1505298339101" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1507" ng="40" na="40"/>
+<sample t="520" it="0" lt="516" ts="1505298339093" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1507" ng="40" na="40"/>
+<sample t="523" it="0" lt="522" ts="1505298339090" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-26" dt="" by="7822" ng="41" na="41"/>
+<sample t="524" it="0" lt="523" ts="1505298339089" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-25" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="528" it="0" lt="528" ts="1505298339084" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="7822" ng="41" na="41"/>
+<sample t="531" it="0" lt="528" ts="1505298339084" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-24" dt="" by="7822" ng="41" na="41"/>
+<sample t="1607" it="0" lt="1094" ts="1505298338005" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-31" dt="" by="7825" ng="40" na="40"/>
+<httpSample t="1827" it="0" lt="1307" ts="1505298338306" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1828" it="0" lt="1307" ts="1505298338306" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-34" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1628" it="0" lt="1105" ts="1505298338505" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1629" it="0" lt="1105" ts="1505298338505" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-36" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1033" it="0" lt="1033" ts="1505298339101" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-21" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1034" it="0" lt="1033" ts="1505298339101" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-21" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="1728" it="0" lt="1208" ts="1505298338405" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1731" it="0" lt="1208" ts="1505298338405" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-35" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1035" it="0" lt="1035" ts="1505298339099" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-20" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1033" it="0" lt="1033" ts="1505298339101" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-18" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1035" it="0" lt="1033" ts="1505298339101" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-18" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="523" it="0" lt="523" ts="1505298339611" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-14" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="527" it="0" lt="523" ts="1505298339610" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-14" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="521" it="0" lt="521" ts="1505298339615" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="1928" it="0" lt="1406" ts="1505298338206" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1931" it="0" lt="1406" ts="1505298338206" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-33" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="526" it="0" lt="526" ts="1505298339611" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="7822" ng="41" na="41"/>
+<sample t="522" it="0" lt="521" ts="1505298339615" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-31" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="1034" it="0" lt="1034" ts="1505298339100" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-17" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="521" it="0" lt="521" ts="1505298339614" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="524" it="0" lt="524" ts="1505298339610" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-12" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1036" it="0" lt="1036" ts="1505298339100" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-19" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="2619" it="0" lt="2094" ts="1505298337514" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="522" it="0" lt="521" ts="1505298339613" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-13" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="522" it="0" lt="522" ts="1505298339612" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-15" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="521" it="0" lt="521" ts="1505298339614" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-16" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1037" it="0" lt="1035" ts="1505298339099" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-20" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="523" it="0" lt="523" ts="1505298339612" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="7822" ng="42" na="42"/>
+<sample t="529" it="0" lt="523" ts="1505298339611" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-28" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="526" it="0" lt="526" ts="1505298339609" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="7822" ng="42" na="42"/>
+<sample t="526" it="0" lt="521" ts="1505298339614" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-16" dt="" by="1507" ng="42" na="42"/>
+<sample t="528" it="0" lt="522" ts="1505298339612" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-15" dt="" by="1507" ng="42" na="42"/>
+<sample t="527" it="0" lt="521" ts="1505298339613" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-13" dt="" by="1507" ng="42" na="42"/>
+<sample t="2624" it="0" lt="2094" ts="1505298337514" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="7822" ng="42" na="42"/>
+<sample t="1038" it="0" lt="1036" ts="1505298339100" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-19" dt="" by="1573" ng="42" na="42"/>
+<sample t="528" it="0" lt="524" ts="1505298339610" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-12" dt="" by="1507" ng="42" na="42"/>
+<sample t="524" it="0" lt="521" ts="1505298339614" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-32" dt="" by="7822" ng="42" na="42"/>
+<sample t="1038" it="0" lt="1034" ts="1505298339100" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-17" dt="" by="1573" ng="42" na="42"/>
+<sample t="528" it="0" lt="526" ts="1505298339609" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-29" dt="" by="7822" ng="41" na="41"/>
+<sample t="532" it="0" lt="526" ts="1505298339609" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-30" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="1646" it="0" lt="1124" ts="1505298339011" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1648" it="0" lt="1124" ts="1505298339010" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-41" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1046" it="0" lt="1046" ts="1505298339612" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-22" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1047" it="0" lt="1046" ts="1505298339611" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-22" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="522" it="0" lt="522" ts="1505298340135" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-18" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="523" it="0" lt="522" ts="1505298340135" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-18" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="1044" it="0" lt="1044" ts="1505298339615" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-24" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1044" it="0" lt="1044" ts="1505298339615" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-24" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="1045" it="0" lt="1045" ts="1505298339613" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-27" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="518" it="0" lt="518" ts="1505298340139" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-20" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1546" it="0" lt="1026" ts="1505298339111" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="522" it="0" lt="522" ts="1505298340135" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-21" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1550" it="0" lt="1026" ts="1505298339111" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-42" dt="" by="7825" ng="42" na="42"/>
+<sample t="520" it="0" lt="518" ts="1505298340139" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-20" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="1846" it="0" lt="1325" ts="1505298338811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="1746" it="0" lt="1224" ts="1505298338911" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="523" it="0" lt="523" ts="1505298340136" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="7822" ng="41" na="41"/>
+<sample t="1048" it="0" lt="1045" ts="1505298339612" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-27" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="525" it="0" lt="525" ts="1505298340134" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="1948" it="0" lt="1427" ts="1505298338709" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="525" it="0" lt="525" ts="1505298340133" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="523" it="0" lt="523" ts="1505298340135" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="516" it="0" lt="516" ts="1505298340142" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-17" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="516" it="0" lt="516" ts="1505298340142" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-19" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1044" it="0" lt="1044" ts="1505298339615" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-25" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1044" it="0" lt="1044" ts="1505298339615" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-26" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1048" it="0" lt="1044" ts="1505298339615" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-25" dt="" by="1573" ng="42" na="42"/>
+<sample t="521" it="0" lt="516" ts="1505298340141" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-19" dt="" by="1507" ng="42" na="42"/>
+<sample t="520" it="0" lt="516" ts="1505298340142" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-17" dt="" by="1507" ng="42" na="42"/>
+<sample t="526" it="0" lt="523" ts="1505298340135" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-35" dt="" by="7822" ng="42" na="42"/>
+<sample t="528" it="0" lt="525" ts="1505298340133" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-34" dt="" by="7822" ng="42" na="42"/>
+<sample t="1953" it="0" lt="1427" ts="1505298338709" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-38" dt="" by="7825" ng="42" na="42"/>
+<sample t="528" it="0" lt="525" ts="1505298340133" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-36" dt="" by="7822" ng="41" na="41"/>
+<sample t="1752" it="0" lt="1224" ts="1505298338910" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-40" dt="" by="7825" ng="42" na="42"/>
+<sample t="525" it="0" lt="523" ts="1505298340136" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-33" dt="" by="7822" ng="41" na="41"/>
+<sample t="1851" it="0" lt="1325" ts="1505298338810" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-39" dt="" by="7825" ng="42" na="42"/>
+<sample t="526" it="0" lt="522" ts="1505298340134" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-21" dt="" by="1507" ng="42" na="42"/>
+<sample t="1048" it="0" lt="1044" ts="1505298339615" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-26" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="2579" it="0" lt="2050" ts="1505298338607" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="7825" ng="42" na="42"/>
+<sample t="2581" it="0" lt="2050" ts="1505298338607" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-37" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="525" it="0" lt="525" ts="1505298340665" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-26" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="526" it="0" lt="525" ts="1505298340665" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-26" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="1051" it="0" lt="1050" ts="1505298340140" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-28" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1979" it="0" lt="1449" ts="1505298339211" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="529" it="0" lt="529" ts="1505298340661" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-27" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="531" it="0" lt="531" ts="1505298340658" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-22" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="534" it="0" lt="531" ts="1505298340658" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-22" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="533" it="0" lt="533" ts="1505298340657" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="1579" it="0" lt="1049" ts="1505298339611" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="1778" it="0" lt="1248" ts="1505298339412" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="1046" it="0" lt="1046" ts="1505298340142" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-32" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1045" it="0" lt="1045" ts="1505298340143" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-29" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="525" it="0" lt="525" ts="1505298340663" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-25" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1046" it="0" lt="1046" ts="1505298340142" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1573" ng="42" na="42"/>
+<sample t="531" it="0" lt="525" ts="1505298340662" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-25" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="1045" it="0" lt="1045" ts="1505298340143" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-30" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="529" it="0" lt="529" ts="1505298340659" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-24" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1050" it="0" lt="1045" ts="1505298340143" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-30" dt="" by="1573" ng="42" na="42"/>
+<sample t="1052" it="0" lt="1046" ts="1505298340141" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1573" ng="42" na="42"/>
+<sample t="1050" it="0" lt="1045" ts="1505298340142" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-29" dt="" by="1573" ng="42" na="42"/>
+<sample t="1050" it="0" lt="1046" ts="1505298340142" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-32" dt="" by="1573" ng="42" na="42"/>
+<sample t="1781" it="0" lt="1248" ts="1505298339412" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-45" dt="" by="7825" ng="42" na="42"/>
+<sample t="1582" it="0" lt="1049" ts="1505298339611" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-47" dt="" by="7825" ng="42" na="42"/>
+<sample t="535" it="0" lt="533" ts="1505298340657" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-41" dt="" by="7822" ng="42" na="42"/>
+<sample t="530" it="0" lt="529" ts="1505298340661" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-27" dt="" by="1507" ng="42" na="42"/>
+<sample t="1982" it="0" lt="1449" ts="1505298339210" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-43" dt="" by="7825" ng="42" na="42"/>
+<sample t="1052" it="0" lt="1050" ts="1505298340139" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-28" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="528" it="0" lt="528" ts="1505298340663" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="7822" ng="42" na="42"/>
+<sample t="532" it="0" lt="528" ts="1505298340663" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-38" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="526" it="0" lt="525" ts="1505298340665" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="7822" ng="42" na="42"/>
+<sample t="531" it="0" lt="525" ts="1505298340665" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-39" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="526" it="0" lt="526" ts="1505298340664" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="1878" it="0" lt="1348" ts="1505298339312" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="1053" it="0" lt="1052" ts="1505298340137" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-31" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="530" it="0" lt="529" ts="1505298340660" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="7822" ng="42" na="42"/>
+<sample t="1059" it="0" lt="1052" ts="1505298340137" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-31" dt="" by="1573" ng="42" na="42"/>
+<sample t="1885" it="0" lt="1348" ts="1505298339312" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-44" dt="" by="7825" ng="42" na="42"/>
+<sample t="532" it="0" lt="526" ts="1505298340664" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-40" dt="" by="7822" ng="42" na="42"/>
+<sample t="534" it="0" lt="529" ts="1505298340659" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-24" dt="" by="1507" ng="42" na="42"/>
+<sample t="536" it="0" lt="529" ts="1505298340660" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-42" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="1790" it="0" lt="1274" ts="1505298339917" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1792" it="0" lt="1274" ts="1505298339916" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-50" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1891" it="0" lt="1374" ts="1505298339817" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1892" it="0" lt="1374" ts="1505298339817" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-49" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1489" it="0" lt="971" ts="1505298340219" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1489" it="0" lt="971" ts="1505298340219" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-53" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1689" it="0" lt="1171" ts="1505298340018" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1692" it="0" lt="1171" ts="1505298340017" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-51" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1043" it="0" lt="1043" ts="1505298340665" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-33" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1589" it="0" lt="1072" ts="1505298340118" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1591" it="0" lt="1072" ts="1505298340118" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-52" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1045" it="0" lt="1045" ts="1505298340664" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-36" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="514" it="0" lt="514" ts="1505298341194" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-29" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1992" it="0" lt="1475" ts="1505298339716" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1046" it="0" lt="1045" ts="1505298340663" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-36" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="1046" it="0" lt="1046" ts="1505298340663" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-35" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1045" it="0" lt="1043" ts="1505298340664" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-33" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="514" it="0" lt="514" ts="1505298341194" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="514" it="0" lt="514" ts="1505298341194" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-30" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="517" it="0" lt="514" ts="1505298341193" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1507" ng="42" na="42"/>
+<sample t="1047" it="0" lt="1046" ts="1505298340663" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-35" dt="" by="1573" ng="42" na="42"/>
+<sample t="1995" it="0" lt="1475" ts="1505298339716" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-48" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1046" it="0" lt="1046" ts="1505298340663" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-34" dt="text" by="1573" ng="42" na="42"/>
+<sample t="515" it="0" lt="514" ts="1505298341194" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-29" dt="" by="1507" ng="42" na="42"/>
+<sample t="1048" it="0" lt="1046" ts="1505298340663" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-34" dt="" by="1573" ng="42" na="42"/>
+<sample t="517" it="0" lt="514" ts="1505298341193" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-30" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="520" it="0" lt="520" ts="1505298341194" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-32" dt="text" by="1507" ng="39" na="39">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="521" it="0" lt="520" ts="1505298341194" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-32" dt="" by="1507" ng="39" na="39"/>
+<httpSample t="521" it="0" lt="521" ts="1505298341194" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="7822" ng="39" na="39"/>
+<sample t="521" it="0" lt="521" ts="1505298341194" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-47" dt="" by="7822" ng="39" na="39"/>
+<httpSample t="521" it="0" lt="521" ts="1505298341194" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="7822" ng="39" na="39"/>
+<sample t="521" it="0" lt="521" ts="1505298341194" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-45" dt="" by="7822" ng="39" na="39"/>
+<httpSample t="519" it="0" lt="519" ts="1505298341195" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-28" dt="text" by="1507" ng="39" na="39">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="520" it="0" lt="520" ts="1505298341195" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="7822" ng="38" na="38"/>
+<httpSample t="519" it="0" lt="519" ts="1505298341196" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-31" dt="text" by="1507" ng="39" na="39">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="521" it="0" lt="520" ts="1505298341195" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-43" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="520" it="0" lt="520" ts="1505298341196" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="7822" ng="38" na="38"/>
+<sample t="521" it="0" lt="519" ts="1505298341195" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-28" dt="" by="1507" ng="39" na="39"/>
+<sample t="520" it="0" lt="520" ts="1505298341196" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-44" dt="" by="7822" ng="38" na="38"/>
+<sample t="520" it="0" lt="519" ts="1505298341196" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-31" dt="" by="1507" ng="39" na="39"/>
+<httpSample t="1808" it="0" lt="1290" ts="1505298340425" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="7825" ng="41" na="41"/>
+<httpSample t="1505" it="0" lt="987" ts="1505298340728" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1506" it="0" lt="987" ts="1505298340728" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-58" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1038" it="0" lt="1038" ts="1505298341196" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-38" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="524" it="0" lt="524" ts="1505298341711" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-35" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="524" it="0" lt="524" ts="1505298341711" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-35" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="1709" it="0" lt="1191" ts="1505298340525" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="7825" ng="41" na="41"/>
+<httpSample t="1605" it="0" lt="1087" ts="1505298340628" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1608" it="0" lt="1087" ts="1505298340628" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-57" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="528" it="0" lt="528" ts="1505298341708" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="7822" ng="40" na="40"/>
+<httpSample t="1038" it="0" lt="1038" ts="1505298341196" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-39" dt="text" by="1573" ng="40" na="40"/>
+<sample t="1040" it="0" lt="1038" ts="1505298341196" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-39" dt="" by="1573" ng="40" na="40"/>
+<httpSample t="527" it="0" lt="527" ts="1505298341709" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="7822" ng="40" na="40"/>
+<sample t="528" it="0" lt="527" ts="1505298341709" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-53" dt="" by="7822" ng="40" na="40"/>
+<sample t="1711" it="0" lt="1191" ts="1505298340525" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-56" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1037" it="0" lt="1037" ts="1505298341197" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-40" dt="text" by="1573" ng="40" na="40"/>
+<sample t="1041" it="0" lt="1037" ts="1505298341196" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-40" dt="" by="1573" ng="40" na="40"/>
+<httpSample t="524" it="0" lt="524" ts="1505298341711" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-34" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="525" it="0" lt="525" ts="1505298341710" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-33" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1040" it="0" lt="1038" ts="1505298341195" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-38" dt="" by="1573" ng="41" na="41"/>
+<httpSample t="1910" it="0" lt="1392" ts="1505298340323" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="7825" ng="41" na="41"/>
+<httpSample t="524" it="0" lt="524" ts="1505298341710" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-36" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1037" it="0" lt="1037" ts="1505298341197" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-42" dt="text" by="1573" ng="41" na="41"/>
+<sample t="1809" it="0" lt="1290" ts="1505298340425" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-55" dt="" by="7825" ng="41" na="41"/>
+<sample t="1042" it="0" lt="1037" ts="1505298341197" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-42" dt="" by="1573" ng="41" na="41"/>
+<sample t="529" it="0" lt="524" ts="1505298341710" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-36" dt="" by="1507" ng="41" na="41"/>
+<sample t="1915" it="0" lt="1392" ts="1505298340323" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-54" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="528" it="0" lt="528" ts="1505298341711" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="7822" ng="40" na="40"/>
+<sample t="529" it="0" lt="528" ts="1505298341711" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-48" dt="" by="7822" ng="40" na="40"/>
+<sample t="528" it="0" lt="525" ts="1505298341710" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-33" dt="" by="1507" ng="41" na="41"/>
+<sample t="527" it="0" lt="524" ts="1505298341711" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-34" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="528" it="0" lt="528" ts="1505298341709" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="7822" ng="40" na="40"/>
+<sample t="532" it="0" lt="528" ts="1505298341709" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-51" dt="" by="7822" ng="40" na="40"/>
+<httpSample t="529" it="0" lt="529" ts="1505298341707" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="7822" ng="40" na="40"/>
+<sample t="534" it="0" lt="529" ts="1505298341707" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-50" dt="" by="7822" ng="40" na="40"/>
+<httpSample t="1040" it="0" lt="1040" ts="1505298341195" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-41" dt="text" by="1573" ng="40" na="40"/>
+<sample t="1047" it="0" lt="1040" ts="1505298341194" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-41" dt="" by="1573" ng="40" na="40"/>
+<sample t="528" it="0" lt="528" ts="1505298341708" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-49" dt="" by="7822" ng="40" na="40"/>
+<httpSample t="1828" it="0" lt="1313" ts="1505298340924" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="7825" ng="43" na="43"/>
+<sample t="1829" it="0" lt="1313" ts="1505298340924" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-60" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="1727" it="0" lt="1211" ts="1505298341025" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="1524" it="0" lt="1008" ts="1505298341229" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="1563" it="0" lt="1049" ts="1505298341190" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="7822" ng="43" na="43"/>
+<sample t="1563" it="0" lt="1049" ts="1505298341190" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-37" dt="" by="7822" ng="43" na="43"/>
+<httpSample t="1038" it="0" lt="1038" ts="1505298341715" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-47" dt="text" by="1573" ng="43" na="43"/>
+<sample t="1039" it="0" lt="1038" ts="1505298341715" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-47" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="1037" it="0" lt="1037" ts="1505298341717" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-43" dt="text" by="1573" ng="43" na="43"/>
+<sample t="1038" it="0" lt="1037" ts="1505298341716" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-43" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="515" it="0" lt="515" ts="1505298342239" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-42" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="512" it="0" lt="512" ts="1505298342242" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-41" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="517" it="0" lt="517" ts="1505298342238" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-38" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1623" it="0" lt="1107" ts="1505298341129" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="7825" ng="43" na="43"/>
+<sample t="517" it="0" lt="517" ts="1505298342238" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-38" dt="" by="1507" ng="43" na="43"/>
+<sample t="514" it="0" lt="512" ts="1505298342241" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-41" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="1036" it="0" lt="1036" ts="1505298341717" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-44" dt="text" by="1573" ng="43" na="43"/>
+<sample t="1039" it="0" lt="1036" ts="1505298341717" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-44" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="518" it="0" lt="517" ts="1505298342237" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="7822" ng="43" na="43"/>
+<sample t="519" it="0" lt="517" ts="1505298342237" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-56" dt="" by="7822" ng="43" na="43"/>
+<httpSample t="515" it="0" lt="515" ts="1505298342238" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-40" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="519" it="0" lt="515" ts="1505298342237" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-40" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="1037" it="0" lt="1037" ts="1505298341716" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-45" dt="text" by="1573" ng="43" na="43"/>
+<sample t="1042" it="0" lt="1037" ts="1505298341715" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-45" dt="" by="1573" ng="43" na="43"/>
+<sample t="516" it="0" lt="515" ts="1505298342239" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-42" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="517" it="0" lt="517" ts="1505298342237" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-39" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1524" it="0" lt="1008" ts="1505298341229" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-63" dt="" by="7825" ng="43" na="43"/>
+<sample t="1728" it="0" lt="1211" ts="1505298341025" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-61" dt="" by="7825" ng="43" na="43"/>
+<sample t="521" it="0" lt="517" ts="1505298342236" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-39" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="520" it="0" lt="520" ts="1505298342236" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="7822" ng="41" na="41"/>
+<sample t="522" it="0" lt="520" ts="1505298342236" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-57" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="517" it="0" lt="517" ts="1505298342239" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="516" it="0" lt="516" ts="1505298342240" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="522" it="0" lt="522" ts="1505298342234" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="7822" ng="42" na="42"/>
+<sample t="1626" it="0" lt="1107" ts="1505298341129" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-62" dt="" by="7825" ng="43" na="43"/>
+<sample t="524" it="0" lt="522" ts="1505298342234" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-58" dt="" by="7822" ng="42" na="42"/>
+<sample t="519" it="0" lt="516" ts="1505298342239" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-54" dt="" by="7822" ng="41" na="41"/>
+<sample t="519" it="0" lt="517" ts="1505298342239" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-55" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="3642" it="0" lt="1145" ts="1505298339515" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="7825" ng="42" na="42"/>
+<sample t="3643" it="0" lt="1145" ts="1505298339515" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-46" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1729" it="0" lt="1324" ts="1505298341430" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1729" it="0" lt="1324" ts="1505298341430" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-65" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1831" it="0" lt="1423" ts="1505298341331" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1831" it="0" lt="1423" ts="1505298341331" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-64" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1431" it="0" lt="1023" ts="1505298341733" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1432" it="0" lt="1023" ts="1505298341732" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-68" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1535" it="0" lt="1125" ts="1505298341631" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1536" it="0" lt="1125" ts="1505298341630" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-67" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1637" it="0" lt="1225" ts="1505298341531" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="7825" ng="42" na="42"/>
+<sample t="1639" it="0" lt="1225" ts="1505298341530" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-66" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="933" it="0" lt="933" ts="1505298342241" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-50" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="420" it="0" lt="420" ts="1505298342754" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-47" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="934" it="0" lt="934" ts="1505298342240" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-48" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="937" it="0" lt="937" ts="1505298342237" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-53" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="932" it="0" lt="932" ts="1505298342242" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-49" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="418" it="0" lt="418" ts="1505298342756" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-44" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="420" it="0" lt="420" ts="1505298342754" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-43" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="421" it="0" lt="420" ts="1505298342754" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-43" dt="" by="1507" ng="42" na="42"/>
+<sample t="419" it="0" lt="418" ts="1505298342756" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-44" dt="" by="1507" ng="42" na="42"/>
+<sample t="933" it="0" lt="932" ts="1505298342242" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-49" dt="" by="1573" ng="42" na="42"/>
+<sample t="938" it="0" lt="937" ts="1505298342237" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-53" dt="" by="1573" ng="42" na="42"/>
+<sample t="934" it="0" lt="934" ts="1505298342240" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-48" dt="" by="1573" ng="42" na="42"/>
+<sample t="420" it="0" lt="420" ts="1505298342754" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-47" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="417" it="0" lt="417" ts="1505298342757" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-45" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="933" it="0" lt="933" ts="1505298342241" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-51" dt="text" by="1573" ng="42" na="42"/>
+<sample t="933" it="0" lt="933" ts="1505298342241" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-50" dt="" by="1573" ng="42" na="42"/>
+<sample t="936" it="0" lt="933" ts="1505298342241" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-51" dt="" by="1573" ng="42" na="42"/>
+<sample t="419" it="0" lt="417" ts="1505298342757" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-45" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="424" it="0" lt="424" ts="1505298342758" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="7822" ng="38" na="38"/>
+<httpSample t="425" it="0" lt="425" ts="1505298342757" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="7822" ng="38" na="38"/>
+<sample t="424" it="0" lt="424" ts="1505298342758" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-62" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="425" it="0" lt="425" ts="1505298342757" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="7822" ng="38" na="38"/>
+<sample t="425" it="0" lt="425" ts="1505298342757" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-63" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="429" it="0" lt="429" ts="1505298342753" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="7822" ng="38" na="38"/>
+<sample t="426" it="0" lt="425" ts="1505298342757" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-61" dt="" by="7822" ng="38" na="38"/>
+<sample t="430" it="0" lt="429" ts="1505298342753" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-60" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="1837" it="0" lt="1339" ts="1505298341835" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="7825" ng="43" na="43"/>
+<sample t="1838" it="0" lt="1339" ts="1505298341834" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-69" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="1432" it="0" lt="941" ts="1505298342240" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="2846" it="0" lt="2355" ts="1505298340826" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="513" it="0" lt="513" ts="1505298343159" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="7822" ng="43" na="43"/>
+<sample t="514" it="0" lt="513" ts="1505298343159" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-65" dt="" by="7822" ng="43" na="43"/>
+<httpSample t="510" it="0" lt="510" ts="1505298343163" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="7822" ng="43" na="43"/>
+<sample t="511" it="0" lt="510" ts="1505298343162" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-64" dt="" by="7822" ng="43" na="43"/>
+<httpSample t="918" it="0" lt="918" ts="1505298342754" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-37" dt="text" by="1573" ng="43" na="43"/>
+<sample t="921" it="0" lt="918" ts="1505298342753" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-37" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="510" it="0" lt="510" ts="1505298343164" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="7822" ng="43" na="43"/>
+<sample t="510" it="0" lt="510" ts="1505298343164" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-68" dt="" by="7822" ng="43" na="43"/>
+<httpSample t="918" it="0" lt="918" ts="1505298342756" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-56" dt="text" by="1573" ng="43" na="43"/>
+<sample t="918" it="0" lt="918" ts="1505298342756" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-56" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="505" it="0" lt="505" ts="1505298343169" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="7822" ng="43" na="43"/>
+<httpSample t="916" it="0" lt="916" ts="1505298342758" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-58" dt="text" by="1573" ng="43" na="43"/>
+<sample t="917" it="0" lt="916" ts="1505298342758" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-58" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="1736" it="0" lt="1245" ts="1505298341936" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="1533" it="0" lt="1041" ts="1505298342140" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="7825" ng="43" na="43"/>
+<sample t="1535" it="0" lt="1041" ts="1505298342140" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-72" dt="" by="7825" ng="43" na="43"/>
+<sample t="2847" it="0" lt="2355" ts="1505298340826" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-59" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="916" it="0" lt="916" ts="1505298342759" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-55" dt="text" by="1573" ng="43" na="43"/>
+<sample t="917" it="0" lt="916" ts="1505298342758" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-55" dt="" by="1573" ng="43" na="43"/>
+<sample t="1433" it="0" lt="941" ts="1505298342240" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-73" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="917" it="0" lt="917" ts="1505298342759" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-54" dt="text" by="1573" ng="43" na="43"/>
+<sample t="919" it="0" lt="917" ts="1505298342758" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-54" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="501" it="0" lt="501" ts="1505298343176" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-48" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="501" it="0" lt="501" ts="1505298343176" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-48" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="1632" it="0" lt="1142" ts="1505298342040" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="7825" ng="43" na="43"/>
+<sample t="1639" it="0" lt="1142" ts="1505298342039" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-71" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="1969" it="0" lt="530" ts="1505298341709" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="7822" ng="42" na="42"/>
+<sample t="1969" it="0" lt="530" ts="1505298341709" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-52" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="499" it="0" lt="499" ts="1505298343176" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-53" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1739" it="0" lt="1245" ts="1505298341936" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-70" dt="" by="7825" ng="43" na="43"/>
+<sample t="506" it="0" lt="505" ts="1505298343169" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-66" dt="" by="7822" ng="43" na="43"/>
+<httpSample t="916" it="0" lt="916" ts="1505298342758" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-57" dt="text" by="1573" ng="43" na="43"/>
+<httpSample t="507" it="0" lt="507" ts="1505298343166" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="7822" ng="43" na="43"/>
+<sample t="921" it="0" lt="916" ts="1505298342758" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-57" dt="" by="1573" ng="43" na="43"/>
+<sample t="502" it="0" lt="499" ts="1505298343176" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-53" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="501" it="0" lt="501" ts="1505298343177" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-50" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="501" it="0" lt="501" ts="1505298343176" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-49" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="505" it="0" lt="501" ts="1505298343175" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-49" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="833" it="0" lt="833" ts="1505298342845" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="7825" ng="42" na="42"/>
+<httpSample t="501" it="0" lt="501" ts="1505298343177" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-51" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="835" it="0" lt="833" ts="1505298342845" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-79" dt="" by="7825" ng="42" na="42"/>
+<sample t="503" it="0" lt="501" ts="1505298343177" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-51" dt="" by="1507" ng="42" na="42"/>
+<sample t="513" it="0" lt="507" ts="1505298343166" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-67" dt="" by="7822" ng="43" na="43"/>
+<sample t="502" it="0" lt="501" ts="1505298343177" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-50" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="1853" it="0" lt="1330" ts="1505298342342" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="1452" it="0" lt="929" ts="1505298342743" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="7825" ng="43" na="43"/>
+<sample t="1854" it="0" lt="1330" ts="1505298342342" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-74" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="1752" it="0" lt="1229" ts="1505298342443" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="1651" it="0" lt="1128" ts="1505298342544" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="7825" ng="43" na="43"/>
+<httpSample t="1552" it="0" lt="1029" ts="1505298342643" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="7825" ng="43" na="43"/>
+<sample t="1652" it="0" lt="1128" ts="1505298342544" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-76" dt="" by="7825" ng="43" na="43"/>
+<sample t="1753" it="0" lt="1229" ts="1505298342443" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-75" dt="" by="7825" ng="43" na="43"/>
+<sample t="1453" it="0" lt="929" ts="1505298342743" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-78" dt="" by="7825" ng="43" na="43"/>
+<sample t="1553" it="0" lt="1029" ts="1505298342643" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-77" dt="" by="7825" ng="43" na="43"/>
+<httpSample t="1020" it="0" lt="1020" ts="1505298343183" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-63" dt="text" by="1573" ng="43" na="43"/>
+<httpSample t="528" it="0" lt="528" ts="1505298343675" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-58" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1020" it="0" lt="1020" ts="1505298343183" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-61" dt="text" by="1573" ng="43" na="43"/>
+<httpSample t="529" it="0" lt="529" ts="1505298343674" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-37" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="526" it="0" lt="526" ts="1505298343677" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-54" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1020" it="0" lt="1020" ts="1505298343183" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-62" dt="text" by="1573" ng="43" na="43"/>
+<sample t="527" it="0" lt="526" ts="1505298343677" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-54" dt="" by="1507" ng="43" na="43"/>
+<sample t="530" it="0" lt="529" ts="1505298343674" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-37" dt="" by="1507" ng="43" na="43"/>
+<sample t="1021" it="0" lt="1020" ts="1505298343183" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-61" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="1020" it="0" lt="1020" ts="1505298343183" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-60" dt="text" by="1573" ng="43" na="43"/>
+<sample t="1021" it="0" lt="1020" ts="1505298343183" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-60" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="524" it="0" lt="524" ts="1505298343679" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-57" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="526" it="0" lt="524" ts="1505298343679" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-57" dt="" by="1507" ng="43" na="43"/>
+<sample t="528" it="0" lt="528" ts="1505298343675" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-58" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="527" it="0" lt="527" ts="1505298343676" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-55" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="530" it="0" lt="528" ts="1505298343675" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="7822" ng="39" na="39"/>
+<sample t="1020" it="0" lt="1020" ts="1505298343183" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-63" dt="" by="1573" ng="43" na="43"/>
+<httpSample t="958" it="0" lt="958" ts="1505298343248" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="7825" ng="39" na="39"/>
+<sample t="531" it="0" lt="528" ts="1505298343675" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-72" dt="" by="7822" ng="39" na="39"/>
+<httpSample t="527" it="0" lt="527" ts="1505298343679" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="7822" ng="39" na="39"/>
+<httpSample t="528" it="0" lt="528" ts="1505298343675" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-56" dt="text" by="1507" ng="43" na="43">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="862" it="0" lt="862" ts="1505298343345" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="7825" ng="39" na="39"/>
+<sample t="529" it="0" lt="527" ts="1505298343678" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-70" dt="" by="7822" ng="39" na="39"/>
+<httpSample t="526" it="0" lt="526" ts="1505298343680" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="7822" ng="39" na="39"/>
+<sample t="958" it="0" lt="958" ts="1505298343248" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-83" dt="" by="7825" ng="39" na="39"/>
+<httpSample t="1049" it="0" lt="1049" ts="1505298343157" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="7822" ng="39" na="39"/>
+<sample t="530" it="0" lt="527" ts="1505298343676" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-55" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="1060" it="0" lt="1058" ts="1505298343145" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="7825" ng="39" na="39"/>
+<sample t="1022" it="0" lt="1020" ts="1505298343182" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-62" dt="" by="1573" ng="43" na="43"/>
+<sample t="1062" it="0" lt="1058" ts="1505298343145" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-82" dt="" by="7825" ng="39" na="39"/>
+<sample t="1050" it="0" lt="1049" ts="1505298343157" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-46" dt="" by="7822" ng="39" na="39"/>
+<httpSample t="530" it="0" lt="530" ts="1505298343678" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="7822" ng="38" na="38"/>
+<sample t="530" it="0" lt="530" ts="1505298343678" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-71" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="532" it="0" lt="532" ts="1505298343676" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="7822" ng="38" na="38"/>
+<sample t="533" it="0" lt="532" ts="1505298343676" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-73" dt="" by="7822" ng="38" na="38"/>
+<sample t="527" it="0" lt="526" ts="1505298343680" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-79" dt="" by="7822" ng="39" na="39"/>
+<sample t="862" it="0" lt="862" ts="1505298343345" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-84" dt="" by="7825" ng="39" na="39"/>
+<sample t="533" it="0" lt="528" ts="1505298343674" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-56" dt="" by="1507" ng="43" na="43"/>
+<httpSample t="1261" it="0" lt="1260" ts="1505298342947" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="7825" ng="39" na="39"/>
+<httpSample t="537" it="0" lt="536" ts="1505298343672" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="7822" ng="38" na="38"/>
+<httpSample t="1163" it="0" lt="1163" ts="1505298343044" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="7825" ng="39" na="39"/>
+<sample t="538" it="0" lt="536" ts="1505298343672" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-69" dt="" by="7822" ng="38" na="38"/>
+<sample t="1263" it="0" lt="1260" ts="1505298342947" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-80" dt="" by="7825" ng="39" na="39"/>
+<sample t="1166" it="0" lt="1163" ts="1505298343044" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-81" dt="" by="7825" ng="39" na="39"/>
+<httpSample t="1048" it="0" lt="1048" ts="1505298343673" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-64" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1048" it="0" lt="1048" ts="1505298343673" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-65" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="1047" it="0" lt="1047" ts="1505298343674" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-68" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1049" it="0" lt="1048" ts="1505298343673" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-65" dt="" by="1573" ng="42" na="42"/>
+<sample t="1049" it="0" lt="1048" ts="1505298343673" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-64" dt="" by="1573" ng="42" na="42"/>
+<sample t="1048" it="0" lt="1047" ts="1505298343674" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-68" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="1046" it="0" lt="1046" ts="1505298343678" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-52" dt="text" by="1573" ng="42" na="42"/>
+<httpSample t="519" it="0" lt="519" ts="1505298344205" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-61" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="516" it="0" lt="516" ts="1505298344208" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-62" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="529" it="0" lt="529" ts="1505298344196" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="528" it="0" lt="528" ts="1505298344196" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="7822" ng="42" na="42"/>
+<httpSample t="1043" it="0" lt="1043" ts="1505298343681" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-67" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1046" it="0" lt="1046" ts="1505298343678" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-52" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="519" it="0" lt="519" ts="1505298344205" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-60" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1076" it="0" lt="1076" ts="1505298343649" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="7825" ng="42" na="42"/>
+<sample t="521" it="0" lt="519" ts="1505298344204" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-60" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="529" it="0" lt="529" ts="1505298344196" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="7822" ng="42" na="42"/>
+<sample t="1045" it="0" lt="1043" ts="1505298343680" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-67" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="518" it="0" lt="518" ts="1505298344207" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-63" dt="text" by="1507" ng="42" na="42">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="529" it="0" lt="528" ts="1505298344196" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-78" dt="" by="7822" ng="42" na="42"/>
+<sample t="529" it="0" lt="529" ts="1505298344196" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-76" dt="" by="7822" ng="42" na="42"/>
+<httpSample t="529" it="0" lt="529" ts="1505298344196" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="7822" ng="42" na="42"/>
+<sample t="530" it="0" lt="529" ts="1505298344196" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-75" dt="" by="7822" ng="42" na="42"/>
+<sample t="518" it="0" lt="516" ts="1505298344207" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-62" dt="" by="1507" ng="42" na="42"/>
+<httpSample t="1045" it="0" lt="1045" ts="1505298343679" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-66" dt="text" by="1573" ng="42" na="42"/>
+<sample t="1047" it="0" lt="1045" ts="1505298343679" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-66" dt="" by="1573" ng="42" na="42"/>
+<httpSample t="528" it="0" lt="528" ts="1505298344196" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="7822" ng="42" na="42"/>
+<sample t="521" it="0" lt="519" ts="1505298344204" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-61" dt="" by="1507" ng="42" na="42"/>
+<sample t="530" it="0" lt="528" ts="1505298344196" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-74" dt="" by="7822" ng="42" na="42"/>
+<sample t="520" it="0" lt="518" ts="1505298344206" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-63" dt="" by="1507" ng="42" na="42"/>
+<sample t="529" it="0" lt="529" ts="1505298344196" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-77" dt="" by="7822" ng="42" na="42"/>
+<sample t="1076" it="0" lt="1076" ts="1505298343649" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-87" dt="" by="7825" ng="42" na="42"/>
+<httpSample t="1055" it="0" lt="1050" ts="1505298343675" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="7822" ng="38" na="38"/>
+<httpSample t="1282" it="0" lt="1282" ts="1505298343448" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="7825" ng="38" na="38"/>
+<sample t="1055" it="0" lt="1050" ts="1505298343675" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-59" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="523" it="0" lt="523" ts="1505298344207" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="7822" ng="38" na="38"/>
+<sample t="1282" it="0" lt="1282" ts="1505298343448" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-85" dt="" by="7825" ng="38" na="38"/>
+<httpSample t="521" it="0" lt="521" ts="1505298344209" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="7822" ng="38" na="38"/>
+<sample t="524" it="0" lt="523" ts="1505298344207" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-83" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="979" it="0" lt="979" ts="1505298343751" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="7825" ng="38" na="38"/>
+<httpSample t="880" it="0" lt="880" ts="1505298343850" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="7825" ng="38" na="38"/>
+<sample t="981" it="0" lt="979" ts="1505298343750" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-88" dt="" by="7825" ng="38" na="38"/>
+<httpSample t="523" it="0" lt="523" ts="1505298344208" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="7822" ng="38" na="38"/>
+<sample t="522" it="0" lt="521" ts="1505298344209" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-84" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="520" it="0" lt="520" ts="1505298344210" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="7822" ng="38" na="38"/>
+<sample t="523" it="0" lt="523" ts="1505298344208" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-82" dt="" by="7822" ng="38" na="38"/>
+<sample t="881" it="0" lt="880" ts="1505298343850" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-89" dt="" by="7825" ng="38" na="38"/>
+<sample t="521" it="0" lt="520" ts="1505298344210" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-81" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="522" it="0" lt="521" ts="1505298344210" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="7822" ng="38" na="38"/>
+<httpSample t="5645" it="0" lt="522" ts="1505298339088" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="7822" ng="38" na="38"/>
+<sample t="522" it="0" lt="521" ts="1505298344210" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-80" dt="" by="7822" ng="38" na="38"/>
+<sample t="5646" it="0" lt="522" ts="1505298339087" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-23" dt="" by="7822" ng="38" na="38"/>
+<httpSample t="1837" it="0" lt="1183" ts="1505298343547" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="7825" ng="41" na="41"/>
+<sample t="1839" it="0" lt="1183" ts="1505298343546" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-86" dt="" by="7825" ng="41" na="41"/>
+<httpSample t="1178" it="0" lt="1178" ts="1505298344207" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-72" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="1178" it="0" lt="1178" ts="1505298344207" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-70" dt="text" by="1573" ng="41" na="41"/>
+<sample t="1179" it="0" lt="1178" ts="1505298344206" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-72" dt="" by="1573" ng="41" na="41"/>
+<httpSample t="1177" it="0" lt="1177" ts="1505298344208" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-46" dt="text" by="1573" ng="41" na="41"/>
+<sample t="1178" it="0" lt="1177" ts="1505298344208" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-46" dt="" by="1573" ng="41" na="41"/>
+<httpSample t="664" it="0" lt="664" ts="1505298344722" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-65" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="665" it="0" lt="664" ts="1505298344722" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-65" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="660" it="0" lt="660" ts="1505298344727" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="7822" ng="41" na="41"/>
+<httpSample t="1176" it="0" lt="1176" ts="1505298344209" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-71" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="1236" it="0" lt="1236" ts="1505298344151" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="7825" ng="40" na="40"/>
+<sample t="1237" it="0" lt="1236" ts="1505298344151" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-92" dt="" by="7825" ng="40" na="40"/>
+<sample t="661" it="0" lt="660" ts="1505298344727" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-87" dt="" by="7822" ng="41" na="41"/>
+<httpSample t="1335" it="0" lt="1335" ts="1505298344052" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="7825" ng="41" na="41"/>
+<httpSample t="660" it="0" lt="660" ts="1505298344726" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-67" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="663" it="0" lt="660" ts="1505298344725" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-67" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="661" it="0" lt="661" ts="1505298344725" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-52" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1176" it="0" lt="1176" ts="1505298344210" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-69" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="657" it="0" lt="656" ts="1505298344731" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="7822" ng="40" na="40"/>
+<httpSample t="660" it="0" lt="660" ts="1505298344726" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-66" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1177" it="0" lt="1177" ts="1505298344209" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-79" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="664" it="0" lt="664" ts="1505298344722" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-68" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1177" it="0" lt="1177" ts="1505298344209" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-73" dt="text" by="1573" ng="41" na="41"/>
+<httpSample t="663" it="0" lt="663" ts="1505298344722" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-64" dt="text" by="1507" ng="41" na="41">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1179" it="0" lt="1178" ts="1505298344207" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-70" dt="" by="1573" ng="41" na="41"/>
+<sample t="667" it="0" lt="663" ts="1505298344722" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-64" dt="" by="1507" ng="41" na="41"/>
+<sample t="1180" it="0" lt="1177" ts="1505298344209" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-73" dt="" by="1573" ng="41" na="41"/>
+<sample t="667" it="0" lt="664" ts="1505298344722" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-68" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="1439" it="0" lt="1439" ts="1505298343951" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="7825" ng="38" na="38"/>
+<sample t="1439" it="0" lt="1439" ts="1505298343951" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-90" dt="" by="7825" ng="38" na="38"/>
+<sample t="1336" it="0" lt="1335" ts="1505298344052" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-91" dt="" by="7825" ng="41" na="41"/>
+<sample t="658" it="0" lt="656" ts="1505298344731" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-85" dt="" by="7822" ng="40" na="40"/>
+<sample t="663" it="0" lt="660" ts="1505298344726" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-66" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="660" it="0" lt="660" ts="1505298344731" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="7822" ng="38" na="38"/>
+<httpSample t="660" it="0" lt="659" ts="1505298344731" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="7822" ng="38" na="38"/>
+<sample t="1179" it="0" lt="1176" ts="1505298344210" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-69" dt="" by="1573" ng="41" na="41"/>
+<sample t="1180" it="0" lt="1176" ts="1505298344208" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-71" dt="" by="1573" ng="41" na="41"/>
+<sample t="1180" it="0" lt="1177" ts="1505298344209" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-79" dt="" by="1573" ng="41" na="41"/>
+<sample t="660" it="0" lt="659" ts="1505298344731" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-88" dt="" by="7822" ng="38" na="38"/>
+<sample t="660" it="0" lt="660" ts="1505298344731" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-89" dt="" by="7822" ng="38" na="38"/>
+<sample t="664" it="0" lt="661" ts="1505298344725" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-52" dt="" by="1507" ng="41" na="41"/>
+<httpSample t="1643" it="0" lt="1132" ts="1505298344255" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="7825" ng="35" na="35"/>
+<sample t="1644" it="0" lt="1132" ts="1505298344255" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-93" dt="" by="7825" ng="35" na="35"/>
+<httpSample t="1173" it="0" lt="1173" ts="1505298344726" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-76" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1174" it="0" lt="1173" ts="1505298344726" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-76" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="1173" it="0" lt="1173" ts="1505298344727" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-74" dt="text" by="1573" ng="35" na="35"/>
+<httpSample t="1169" it="0" lt="1169" ts="1505298344731" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-59" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1170" it="0" lt="1169" ts="1505298344730" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-59" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="1543" it="0" lt="1032" ts="1505298344355" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="7825" ng="35" na="35"/>
+<httpSample t="1174" it="0" lt="1174" ts="1505298344726" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-75" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1175" it="0" lt="1174" ts="1505298344726" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-75" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="1169" it="0" lt="1169" ts="1505298344732" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-23" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1169" it="0" lt="1169" ts="1505298344732" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-23" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="1170" it="0" lt="1170" ts="1505298344731" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-84" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1170" it="0" lt="1170" ts="1505298344731" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-84" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="515" it="0" lt="515" ts="1505298345386" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-72" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="517" it="0" lt="515" ts="1505298345386" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-72" dt="" by="1507" ng="35" na="35"/>
+<sample t="1546" it="0" lt="1032" ts="1505298344355" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-94" dt="" by="7825" ng="35" na="35"/>
+<httpSample t="1173" it="0" lt="1173" ts="1505298344727" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-77" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1176" it="0" lt="1173" ts="1505298344727" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-77" dt="" by="1573" ng="35" na="35"/>
+<sample t="1173" it="0" lt="1173" ts="1505298344727" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-74" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="1173" it="0" lt="1173" ts="1505298344726" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-78" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1178" it="0" lt="1173" ts="1505298344726" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-78" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="511" it="0" lt="511" ts="1505298345392" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-69" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="514" it="0" lt="511" ts="1505298345391" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-69" dt="" by="1507" ng="35" na="35"/>
+<httpSample t="518" it="0" lt="517" ts="1505298345385" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="7822" ng="35" na="35"/>
+<httpSample t="1170" it="0" lt="1170" ts="1505298344731" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-82" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1174" it="0" lt="1170" ts="1505298344731" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-82" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="510" it="0" lt="510" ts="1505298345392" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-79" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="513" it="0" lt="510" ts="1505298345392" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-79" dt="" by="1507" ng="35" na="35"/>
+<httpSample t="510" it="0" lt="510" ts="1505298345392" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-71" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1170" it="0" lt="1170" ts="1505298344732" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-80" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1174" it="0" lt="1170" ts="1505298344732" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-80" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="512" it="0" lt="512" ts="1505298345390" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-73" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="516" it="0" lt="512" ts="1505298345390" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-73" dt="" by="1507" ng="35" na="35"/>
+<httpSample t="1171" it="0" lt="1171" ts="1505298344731" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-83" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1175" it="0" lt="1171" ts="1505298344731" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-83" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="1170" it="0" lt="1170" ts="1505298344732" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-81" dt="text" by="1573" ng="35" na="35"/>
+<sample t="1175" it="0" lt="1170" ts="1505298344731" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-81" dt="" by="1573" ng="35" na="35"/>
+<httpSample t="512" it="0" lt="512" ts="1505298345390" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-70" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="515" it="0" lt="515" ts="1505298345386" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-46" dt="text" by="1507" ng="35" na="35">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="518" it="0" lt="512" ts="1505298345389" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-70" dt="" by="1507" ng="35" na="35"/>
+<sample t="514" it="0" lt="510" ts="1505298345392" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-71" dt="" by="1507" ng="35" na="35"/>
+<sample t="520" it="0" lt="517" ts="1505298345385" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-86" dt="" by="7822" ng="35" na="35"/>
+<sample t="521" it="0" lt="515" ts="1505298345386" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-46" dt="" by="1507" ng="35" na="35"/>
+<httpSample t="1153" it="0" lt="1146" ts="1505298344757" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="7825" ng="28" na="28"/>
+<httpSample t="522" it="0" lt="522" ts="1505298345388" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="7822" ng="28" na="28"/>
+<sample t="1153" it="0" lt="1146" ts="1505298344757" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-98" dt="" by="7825" ng="28" na="28"/>
+<httpSample t="520" it="0" lt="520" ts="1505298345390" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="7822" ng="28" na="28"/>
+<httpSample t="519" it="0" lt="519" ts="1505298345391" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="7822" ng="28" na="28"/>
+<httpSample t="1052" it="0" lt="1052" ts="1505298344858" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="7825" ng="28" na="28"/>
+<sample t="522" it="0" lt="522" ts="1505298345388" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-92" dt="" by="7822" ng="28" na="28"/>
+<sample t="1053" it="0" lt="1052" ts="1505298344857" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-99" dt="" by="7825" ng="28" na="28"/>
+<sample t="519" it="0" lt="519" ts="1505298345391" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-91" dt="" by="7822" ng="28" na="28"/>
+<sample t="520" it="0" lt="520" ts="1505298345390" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-90" dt="" by="7822" ng="28" na="28"/>
+<httpSample t="1770" it="0" lt="1249" ts="1505298344653" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="7825" ng="28" na="28"/>
+<httpSample t="1867" it="0" lt="1346" ts="1505298344556" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="7825" ng="28" na="28"/>
+<sample t="1868" it="0" lt="1346" ts="1505298344556" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-96" dt="" by="7825" ng="28" na="28"/>
+<httpSample t="524" it="0" lt="524" ts="1505298345900" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-76" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="520" it="0" lt="520" ts="1505298345904" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-74" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="522" it="0" lt="520" ts="1505298345903" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-74" dt="" by="1507" ng="28" na="28"/>
+<httpSample t="1034" it="0" lt="1034" ts="1505298345391" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-85" dt="text" by="1573" ng="28" na="28"/>
+<httpSample t="524" it="0" lt="524" ts="1505298345901" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-75" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1971" it="0" lt="1450" ts="1505298344452" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="7825" ng="28" na="28"/>
+<httpSample t="1468" it="0" lt="1468" ts="1505298344957" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="7825" ng="28" na="28"/>
+<httpSample t="1032" it="0" lt="1032" ts="1505298345392" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-89" dt="text" by="1573" ng="27" na="27"/>
+<sample t="1973" it="0" lt="1450" ts="1505298344452" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-95" dt="" by="7825" ng="28" na="28"/>
+<sample t="524" it="0" lt="524" ts="1505298345901" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-75" dt="" by="1507" ng="28" na="28"/>
+<httpSample t="522" it="0" lt="522" ts="1505298345903" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="7822" ng="27" na="27"/>
+<httpSample t="1037" it="0" lt="1037" ts="1505298345388" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-87" dt="text" by="1573" ng="28" na="28"/>
+<sample t="1038" it="0" lt="1037" ts="1505298345388" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-87" dt="" by="1573" ng="28" na="28"/>
+<httpSample t="524" it="0" lt="524" ts="1505298345901" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-23" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1033" it="0" lt="1033" ts="1505298345392" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-88" dt="text" by="1573" ng="28" na="28"/>
+<httpSample t="518" it="0" lt="518" ts="1505298345907" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-81" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1034" it="0" lt="1034" ts="1505298345391" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-85" dt="" by="1573" ng="28" na="28"/>
+<httpSample t="519" it="0" lt="519" ts="1505298345906" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-80" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="520" it="0" lt="520" ts="1505298345905" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-82" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="521" it="0" lt="521" ts="1505298345904" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-78" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="523" it="0" lt="523" ts="1505298345901" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-84" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="524" it="0" lt="524" ts="1505298345900" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-76" dt="" by="1507" ng="28" na="28"/>
+<httpSample t="518" it="0" lt="518" ts="1505298345906" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-83" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="524" it="0" lt="524" ts="1505298345900" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-59" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="520" it="0" lt="520" ts="1505298345904" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-77" dt="text" by="1507" ng="28" na="28">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1771" it="0" lt="1249" ts="1505298344653" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-97" dt="" by="7825" ng="28" na="28"/>
+<sample t="525" it="0" lt="520" ts="1505298345903" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-77" dt="" by="1507" ng="28" na="28"/>
+<sample t="528" it="0" lt="524" ts="1505298345900" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-59" dt="" by="1507" ng="28" na="28"/>
+<sample t="521" it="0" lt="518" ts="1505298345906" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-83" dt="" by="1507" ng="28" na="28"/>
+<sample t="526" it="0" lt="523" ts="1505298345901" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-84" dt="" by="1507" ng="28" na="28"/>
+<httpSample t="530" it="0" lt="526" ts="1505298345899" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="7822" ng="22" na="22"/>
+<sample t="530" it="0" lt="526" ts="1505298345899" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-93" dt="" by="7822" ng="22" na="22"/>
+<sample t="523" it="0" lt="521" ts="1505298345904" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-78" dt="" by="1507" ng="28" na="28"/>
+<httpSample t="519" it="0" lt="519" ts="1505298345910" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="7822" ng="21" na="21"/>
+<sample t="520" it="0" lt="519" ts="1505298345910" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-98" dt="" by="7822" ng="21" na="21"/>
+<sample t="522" it="0" lt="520" ts="1505298345905" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-82" dt="" by="1507" ng="28" na="28"/>
+<sample t="521" it="0" lt="519" ts="1505298345906" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-80" dt="" by="1507" ng="28" na="28"/>
+<sample t="519" it="0" lt="518" ts="1505298345907" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-81" dt="" by="1507" ng="28" na="28"/>
+<sample t="1034" it="0" lt="1033" ts="1505298345392" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-88" dt="" by="1573" ng="28" na="28"/>
+<sample t="525" it="0" lt="524" ts="1505298345901" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-23" dt="" by="1507" ng="28" na="28"/>
+<sample t="523" it="0" lt="522" ts="1505298345903" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-94" dt="" by="7822" ng="27" na="27"/>
+<sample t="1033" it="0" lt="1032" ts="1505298345392" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-89" dt="" by="1573" ng="27" na="27"/>
+<sample t="1468" it="0" lt="1468" ts="1505298344957" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-100" dt="" by="7825" ng="28" na="28"/>
+<httpSample t="518" it="0" lt="518" ts="1505298345911" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="7822" ng="22" na="22"/>
+<sample t="521" it="0" lt="518" ts="1505298345911" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-99" dt="" by="7822" ng="22" na="22"/>
+<httpSample t="1037" it="0" lt="1037" ts="1505298345911" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-90" dt="text" by="1573" ng="16" na="16"/>
+<sample t="1038" it="0" lt="1037" ts="1505298345911" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-90" dt="" by="1573" ng="16" na="16"/>
+<httpSample t="1039" it="0" lt="1037" ts="1505298345911" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-92" dt="text" by="1573" ng="16" na="16"/>
+<sample t="1041" it="0" lt="1037" ts="1505298345910" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-92" dt="" by="1573" ng="16" na="16"/>
+<httpSample t="1048" it="0" lt="1048" ts="1505298345908" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-86" dt="text" by="1573" ng="16" na="16"/>
+<httpSample t="529" it="0" lt="529" ts="1505298346427" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-85" dt="text" by="1507" ng="16" na="16">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1045" it="0" lt="1045" ts="1505298345911" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-91" dt="text" by="1573" ng="16" na="16"/>
+<httpSample t="532" it="0" lt="532" ts="1505298346424" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="7822" ng="16" na="16"/>
+<sample t="1049" it="0" lt="1048" ts="1505298345907" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-86" dt="" by="1573" ng="16" na="16"/>
+<httpSample t="530" it="0" lt="530" ts="1505298346426" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-87" dt="text" by="1507" ng="16" na="16">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="524" it="0" lt="524" ts="1505298346432" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-89" dt="text" by="1507" ng="16" na="16">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="532" it="0" lt="532" ts="1505298346424" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-96" dt="" by="7822" ng="16" na="16"/>
+<httpSample t="525" it="0" lt="525" ts="1505298346431" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-88" dt="text" by="1507" ng="16" na="16">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="529" it="0" lt="529" ts="1505298346427" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-85" dt="" by="1507" ng="16" na="16"/>
+<sample t="1045" it="0" lt="1045" ts="1505298345911" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-91" dt="" by="1573" ng="16" na="16"/>
+<sample t="526" it="0" lt="525" ts="1505298346431" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-88" dt="" by="1507" ng="16" na="16"/>
+<httpSample t="525" it="0" lt="525" ts="1505298346432" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="7822" ng="16" na="16"/>
+<sample t="525" it="0" lt="525" ts="1505298346432" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-100" dt="" by="7822" ng="16" na="16"/>
+<sample t="525" it="0" lt="524" ts="1505298346432" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-89" dt="" by="1507" ng="16" na="16"/>
+<httpSample t="529" it="0" lt="528" ts="1505298346428" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="7822" ng="16" na="16"/>
+<sample t="530" it="0" lt="528" ts="1505298346428" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-97" dt="" by="7822" ng="16" na="16"/>
+<sample t="531" it="0" lt="530" ts="1505298346426" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-87" dt="" by="1507" ng="16" na="16"/>
+<httpSample t="1044" it="0" lt="1044" ts="1505298346429" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-93" dt="text" by="1573" ng="12" na="12"/>
+<httpSample t="516" it="0" lt="516" ts="1505298346957" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-86" dt="text" by="1507" ng="12" na="12">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="516" it="0" lt="516" ts="1505298346957" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-91" dt="text" by="1507" ng="12" na="12">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="1045" it="0" lt="1044" ts="1505298346429" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-93" dt="" by="1573" ng="12" na="12"/>
+<httpSample t="1043" it="0" lt="1043" ts="1505298346430" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-98" dt="text" by="1573" ng="12" na="12"/>
+<httpSample t="1034" it="0" lt="1034" ts="1505298346439" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-99" dt="text" by="1573" ng="12" na="12"/>
+<httpSample t="1041" it="0" lt="1041" ts="1505298346432" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-94" dt="text" by="1573" ng="12" na="12"/>
+<sample t="1042" it="0" lt="1034" ts="1505298346432" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-99" dt="" by="1573" ng="12" na="12"/>
+<httpSample t="522" it="0" lt="522" ts="1505298346951" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-92" dt="text" by="1507" ng="12" na="12">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="524" it="0" lt="522" ts="1505298346951" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-92" dt="" by="1507" ng="12" na="12"/>
+<sample t="1043" it="0" lt="1041" ts="1505298346431" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-94" dt="" by="1573" ng="12" na="12"/>
+<sample t="1044" it="0" lt="1043" ts="1505298346430" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-98" dt="" by="1573" ng="12" na="12"/>
+<sample t="517" it="0" lt="516" ts="1505298346957" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-91" dt="" by="1507" ng="12" na="12"/>
+<httpSample t="524" it="0" lt="524" ts="1505298346949" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-90" dt="text" by="1507" ng="12" na="12">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="518" it="0" lt="516" ts="1505298346956" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-86" dt="" by="1507" ng="12" na="12"/>
+<sample t="526" it="0" lt="524" ts="1505298346949" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-90" dt="" by="1507" ng="12" na="12"/>
+<httpSample t="1040" it="0" lt="1040" ts="1505298346958" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-100" dt="text" by="1573" ng="8" na="8"/>
+<httpSample t="523" it="0" lt="523" ts="1505298347475" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-98" dt="text" by="1507" ng="8" na="8">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="523" it="0" lt="523" ts="1505298347475" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-99" dt="text" by="1507" ng="8" na="8">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="523" it="0" lt="523" ts="1505298347475" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-98" dt="" by="1507" ng="8" na="8"/>
+<httpSample t="1040" it="0" lt="1040" ts="1505298346958" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-97" dt="text" by="1573" ng="8" na="8"/>
+<httpSample t="524" it="0" lt="524" ts="1505298347474" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-93" dt="text" by="1507" ng="8" na="8">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="523" it="0" lt="523" ts="1505298347475" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-94" dt="text" by="1507" ng="8" na="8">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1041" it="0" lt="1041" ts="1505298346957" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-96" dt="text" by="1573" ng="8" na="8"/>
+<sample t="1041" it="0" lt="1040" ts="1505298346957" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-100" dt="" by="1573" ng="8" na="8"/>
+<sample t="1042" it="0" lt="1041" ts="1505298346957" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-96" dt="" by="1573" ng="8" na="8"/>
+<sample t="524" it="0" lt="523" ts="1505298347475" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-94" dt="" by="1507" ng="8" na="8"/>
+<sample t="525" it="0" lt="524" ts="1505298347474" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-93" dt="" by="1507" ng="8" na="8"/>
+<sample t="1041" it="0" lt="1040" ts="1505298346958" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-97" dt="" by="1573" ng="8" na="8"/>
+<sample t="524" it="0" lt="523" ts="1505298347474" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-99" dt="" by="1507" ng="8" na="8"/>
+<httpSample t="2094" it="0" lt="530" ts="1505298346426" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="7822" ng="4" na="4"/>
+<sample t="2094" it="0" lt="530" ts="1505298346426" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-95" dt="" by="7822" ng="4" na="4"/>
+<httpSample t="521" it="0" lt="521" ts="1505298348000" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-97" dt="text" by="1507" ng="4" na="4">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="521" it="0" lt="521" ts="1505298348000" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-100" dt="text" by="1507" ng="4" na="4">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="521" it="0" lt="521" ts="1505298348000" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-96" dt="text" by="1507" ng="4" na="4">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="522" it="0" lt="521" ts="1505298347999" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-100" dt="" by="1507" ng="4" na="4"/>
+<sample t="521" it="0" lt="521" ts="1505298348000" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-97" dt="" by="1507" ng="4" na="4"/>
+<sample t="522" it="0" lt="521" ts="1505298347999" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-96" dt="" by="1507" ng="4" na="4"/>
+<httpSample t="1048" it="0" lt="1048" ts="1505298348521" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-95" dt="text" by="1573" ng="1" na="1"/>
+<sample t="1049" it="0" lt="1048" ts="1505298348521" s="false" lb="Impersonation" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-95" dt="" by="1573" ng="1" na="1"/>
+<httpSample t="524" it="0" lt="524" ts="1505298349570" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-95" dt="text" by="1507" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<sample t="524" it="0" lt="524" ts="1505298349570" s="false" lb="GetCountriesAPI" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-95" dt="" by="1507" ng="1" na="1"/>
+
+</testResults>

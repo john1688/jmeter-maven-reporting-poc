@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="903" it="63" lt="0" ts="1505294955417" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7826" ng="10" na="10">
+  <httpSample t="903" it="0" lt="645" ts="1505294955473" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="868" it="0" lt="0" ts="1505294955517" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="7826" ng="10" na="10">
+  <httpSample t="868" it="0" lt="601" ts="1505294955517" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="850" it="1" lt="0" ts="1505294955618" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="7826" ng="10" na="10">
+  <httpSample t="850" it="0" lt="578" ts="1505294955618" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="853" it="1" lt="0" ts="1505294955722" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="7826" ng="10" na="10">
+  <httpSample t="853" it="0" lt="581" ts="1505294955722" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="843" it="0" lt="0" ts="1505294955825" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="7826" ng="10" na="10">
+  <httpSample t="843" it="0" lt="567" ts="1505294955825" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="304" it="1" lt="0" ts="1505294956387" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="7823" ng="10" na="10">
+  <httpSample t="304" it="0" lt="304" ts="1505294956387" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="318" it="0" lt="0" ts="1505294956387" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7823" ng="10" na="10">
+  <httpSample t="318" it="0" lt="316" ts="1505294956387" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="937" it="1" lt="0" ts="1505294955926" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="7826" ng="10" na="10">
+  <httpSample t="937" it="0" lt="573" ts="1505294955926" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="405" it="0" lt="0" ts="1505294956470" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="7823" ng="10" na="10">
+  <httpSample t="405" it="0" lt="393" ts="1505294956470" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="849" it="0" lt="0" ts="1505294956029" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="7826" ng="10" na="10">
+  <httpSample t="849" it="0" lt="572" ts="1505294956029" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="304" it="0" lt="0" ts="1505294956669" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="7823" ng="10" na="10">
+  <httpSample t="304" it="0" lt="304" ts="1505294956669" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="867" it="2" lt="0" ts="1505294956129" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="7826" ng="10" na="10">
+  <httpSample t="867" it="0" lt="584" ts="1505294956130" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="931" it="0" lt="0" ts="1505294956233" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="7826" ng="10" na="10">
+  <httpSample t="931" it="0" lt="642" ts="1505294956233" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="309" it="0" lt="0" ts="1505294956865" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="7823" ng="10" na="10">
+  <httpSample t="309" it="0" lt="307" ts="1505294956865" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="310" it="1" lt="0" ts="1505294956879" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="7823" ng="10" na="10">
+  <httpSample t="310" it="0" lt="310" ts="1505294956879" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="855" it="1" lt="0" ts="1505294956334" s="true" lb="SSO Login page" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="7826" ng="10" na="10">
+  <httpSample t="855" it="0" lt="580" ts="1505294956334" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="7826" ng="10" na="10"/>
+</sample>
+<sample t="581" it="2" lt="0" ts="1505294956706" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1585" ng="10" na="10">
+  <httpSample t="581" it="0" lt="581" ts="1505294956706" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="592" it="5" lt="0" ts="1505294956692" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1585" ng="10" na="10">
+  <httpSample t="592" it="0" lt="592" ts="1505294956695" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="304" it="1" lt="0" ts="1505294956998" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="7823" ng="10" na="10">
+  <httpSample t="304" it="0" lt="304" ts="1505294956998" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="575" it="1" lt="0" ts="1505294956876" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1585" ng="10" na="10">
+  <httpSample t="575" it="0" lt="575" ts="1505294956876" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="316" it="0" lt="0" ts="1505294957165" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="7823" ng="10" na="10">
+  <httpSample t="316" it="0" lt="309" ts="1505294957165" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="318" it="1" lt="0" ts="1505294957190" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="7823" ng="10" na="10">
+  <httpSample t="318" it="0" lt="317" ts="1505294957191" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="574" it="1" lt="0" ts="1505294956976" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1585" ng="10" na="10">
+  <httpSample t="574" it="0" lt="574" ts="1505294956976" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="309" it="5" lt="0" ts="1505294957289" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1483" ng="10" na="10">
+  <httpSample t="309" it="0" lt="292" ts="1505294957290" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="310" it="4" lt="0" ts="1505294957289" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1483" ng="10" na="10">
+  <httpSample t="310" it="0" lt="309" ts="1505294957290" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="287" it="1" lt="0" ts="1505294957452" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1483" ng="10" na="10">
+  <httpSample t="287" it="0" lt="287" ts="1505294957452" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="573" it="1" lt="0" ts="1505294957174" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1585" ng="10" na="10">
+  <httpSample t="573" it="0" lt="573" ts="1505294957175" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="579" it="1" lt="0" ts="1505294957190" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1585" ng="10" na="10">
+  <httpSample t="579" it="0" lt="579" ts="1505294957191" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="536" it="1" lt="0" ts="1505294957551" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1483" ng="10" na="10">
+  <httpSample t="536" it="0" lt="535" ts="1505294957551" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="488" it="1" lt="0" ts="1505294957604" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1519" ng="10" na="10">
+  <httpSample t="488" it="0" lt="488" ts="1505294957604" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="793" it="1" lt="0" ts="1505294957303" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1585" ng="10" na="10">
+  <httpSample t="793" it="0" lt="793" ts="1505294957304" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="494" it="0" lt="0" ts="1505294957604" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1519" ng="10" na="10">
+  <httpSample t="494" it="0" lt="493" ts="1505294957604" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="621" it="0" lt="0" ts="1505294957482" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1585" ng="10" na="10">
+  <httpSample t="621" it="0" lt="620" ts="1505294957482" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="361" it="0" lt="0" ts="1505294957742" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1519" ng="10" na="10">
+  <httpSample t="361" it="0" lt="360" ts="1505294957742" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="354" it="2" lt="0" ts="1505294957748" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1483" ng="10" na="10">
+  <httpSample t="354" it="0" lt="353" ts="1505294957749" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="332" it="1" lt="0" ts="1505294957770" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1483" ng="10" na="10">
+  <httpSample t="332" it="0" lt="331" ts="1505294957771" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="886" it="1" lt="0" ts="1505294957509" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1585" ng="10" na="10">
+  <httpSample t="886" it="0" lt="886" ts="1505294957509" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="307" it="2" lt="0" ts="1505294958088" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1519" ng="10" na="10">
+  <httpSample t="307" it="0" lt="307" ts="1505294958088" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="299" it="2" lt="0" ts="1505294958097" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1483" ng="10" na="10">
+  <httpSample t="299" it="0" lt="299" ts="1505294958098" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="298" it="1" lt="0" ts="1505294958099" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1527" ng="10" na="10">
+  <httpSample t="298" it="0" lt="298" ts="1505294958099" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="303" it="2" lt="0" ts="1505294958093" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1527" ng="10" na="10">
+  <httpSample t="303" it="0" lt="303" ts="1505294958094" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="305" it="1" lt="0" ts="1505294958104" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1527" ng="10" na="10">
+  <httpSample t="305" it="0" lt="305" ts="1505294958105" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="305" it="0" lt="0" ts="1505294958105" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1519" ng="10" na="10">
+  <httpSample t="305" it="0" lt="305" ts="1505294958105" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="305" it="0" lt="0" ts="1505294958105" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1519" ng="10" na="10">
+  <httpSample t="305" it="0" lt="305" ts="1505294958105" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="306" it="1" lt="0" ts="1505294958104" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1483" ng="10" na="10">
+  <httpSample t="306" it="0" lt="306" ts="1505294958104" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="298" it="0" lt="0" ts="1505294958412" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1519" ng="10" na="10">
+  <httpSample t="298" it="0" lt="298" ts="1505294958412" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="310" it="1" lt="0" ts="1505294958399" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1525" ng="10" na="10">
+  <httpSample t="310" it="0" lt="310" ts="1505294958400" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="298" it="0" lt="0" ts="1505294958412" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1527" ng="10" na="10">
+  <httpSample t="298" it="0" lt="298" ts="1505294958412" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="312" it="0" lt="0" ts="1505294958398" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1527" ng="10" na="10">
+  <httpSample t="312" it="0" lt="312" ts="1505294958398" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="298" it="1" lt="0" ts="1505294958411" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1527" ng="10" na="10">
+  <httpSample t="298" it="0" lt="298" ts="1505294958412" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="310" it="0" lt="0" ts="1505294958400" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1525" ng="10" na="10">
+  <httpSample t="310" it="0" lt="310" ts="1505294958400" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="311" it="1" lt="0" ts="1505294958399" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1519" ng="10" na="10">
+  <httpSample t="311" it="0" lt="311" ts="1505294958399" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="313" it="1" lt="0" ts="1505294958397" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1483" ng="10" na="10">
+  <httpSample t="313" it="0" lt="313" ts="1505294958397" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="299" it="0" lt="0" ts="1505294958411" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1525" ng="10" na="10">
+  <httpSample t="299" it="0" lt="299" ts="1505294958411" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="293" it="0" lt="0" ts="1505294958711" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1527" ng="10" na="10">
+  <httpSample t="293" it="0" lt="292" ts="1505294958711" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="291" it="0" lt="0" ts="1505294958714" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1519" ng="10" na="10">
+  <httpSample t="291" it="0" lt="291" ts="1505294958714" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="293" it="1" lt="0" ts="1505294958714" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1527" ng="10" na="10">
+  <httpSample t="293" it="0" lt="292" ts="1505294958714" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="301" it="0" lt="0" ts="1505294958713" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1525" ng="10" na="10">
+  <httpSample t="301" it="0" lt="298" ts="1505294958713" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="299" it="1" lt="0" ts="1505294958714" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1503" ng="10" na="10">
+  <httpSample t="299" it="0" lt="299" ts="1505294958715" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="301" it="0" lt="0" ts="1505294958713" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1525" ng="10" na="10">
+  <httpSample t="301" it="0" lt="301" ts="1505294958713" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="300" it="1" lt="0" ts="1505294958713" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1525" ng="10" na="10">
+  <httpSample t="300" it="0" lt="300" ts="1505294958714" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="331" it="0" lt="0" ts="1505294959006" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1527" ng="10" na="10">
+  <httpSample t="331" it="0" lt="331" ts="1505294959006" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="321" it="1" lt="0" ts="1505294959016" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1503" ng="10" na="10">
+  <httpSample t="321" it="0" lt="321" ts="1505294959016" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="321" it="1" lt="0" ts="1505294959016" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1503" ng="10" na="10">
+  <httpSample t="321" it="0" lt="321" ts="1505294959016" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="329" it="0" lt="0" ts="1505294959008" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1525" ng="10" na="10">
+  <httpSample t="329" it="0" lt="329" ts="1505294959008" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="625" it="1" lt="0" ts="1505294958712" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1503" ng="10" na="10">
+  <httpSample t="625" it="0" lt="625" ts="1505294958713" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="623" it="1" lt="0" ts="1505294958714" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1503" ng="10" na="10">
+  <httpSample t="623" it="0" lt="623" ts="1505294958714" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="332" it="1" lt="0" ts="1505294959005" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1525" ng="10" na="10">
+  <httpSample t="332" it="0" lt="332" ts="1505294959005" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="639" it="1" lt="0" ts="1505294959015" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1475" ng="10" na="10">
+  <httpSample t="639" it="0" lt="639" ts="1505294959016" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="313" it="0" lt="0" ts="1505294959342" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1503" ng="10" na="10">
+  <httpSample t="313" it="0" lt="313" ts="1505294959342" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="640" it="1" lt="0" ts="1505294959014" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1503" ng="10" na="10">
+  <httpSample t="640" it="0" lt="640" ts="1505294959015" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="314" it="0" lt="0" ts="1505294959341" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1475" ng="10" na="10">
+  <httpSample t="314" it="0" lt="314" ts="1505294959341" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="313" it="0" lt="0" ts="1505294959342" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1475" ng="10" na="10">
+  <httpSample t="313" it="0" lt="313" ts="1505294959342" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="317" it="0" lt="0" ts="1505294959338" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1525" ng="10" na="10">
+  <httpSample t="317" it="0" lt="317" ts="1505294959338" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="667" it="0" lt="0" ts="1505294959339" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1475" ng="10" na="10">
+  <httpSample t="667" it="0" lt="664" ts="1505294959339" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="671" it="1" lt="0" ts="1505294959340" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1475" ng="10" na="10">
+  <httpSample t="671" it="0" lt="670" ts="1505294959340" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="671" it="0" lt="0" ts="1505294959341" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1503" ng="10" na="10">
+  <httpSample t="671" it="0" lt="671" ts="1505294959341" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="356" it="0" lt="0" ts="1505294959657" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1529" ng="10" na="10">
+  <httpSample t="356" it="0" lt="355" ts="1505294959657" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="358" it="0" lt="0" ts="1505294959657" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1475" ng="10" na="10">
+  <httpSample t="358" it="0" lt="357" ts="1505294959657" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="358" it="0" lt="0" ts="1505294959658" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1529" ng="10" na="10">
+  <httpSample t="358" it="0" lt="357" ts="1505294959658" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="359" it="1" lt="0" ts="1505294959657" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1529" ng="10" na="10">
+  <httpSample t="359" it="0" lt="358" ts="1505294959658" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="3701" it="1" lt="0" ts="1505294956576" s="true" lb="Login" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="7823" ng="10" na="10">
+  <httpSample t="3701" it="0" lt="3416" ts="1505294956576" s="true" lb="HTTP Request: Login" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="7823" ng="10" na="10"/>
+</sample>
+<sample t="625" it="0" lt="0" ts="1505294959657" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1475" ng="10" na="10">
+  <httpSample t="625" it="0" lt="625" ts="1505294959657" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="625" it="0" lt="0" ts="1505294959658" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1503" ng="10" na="10">
+  <httpSample t="625" it="0" lt="624" ts="1505294959658" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="283" it="0" lt="0" ts="1505294960007" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1529" ng="10" na="10">
+  <httpSample t="283" it="0" lt="283" ts="1505294960007" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="282" it="1" lt="0" ts="1505294960012" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1475" ng="10" na="10">
+  <httpSample t="282" it="0" lt="282" ts="1505294960012" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="283" it="1" lt="0" ts="1505294960012" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1529" ng="10" na="10">
+  <httpSample t="283" it="0" lt="283" ts="1505294960012" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="282" it="1" lt="0" ts="1505294960014" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1597" ng="10" na="10">
+  <httpSample t="282" it="0" lt="282" ts="1505294960014" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="283" it="0" lt="0" ts="1505294960015" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1529" ng="10" na="10">
+  <httpSample t="283" it="0" lt="283" ts="1505294960015" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="286" it="1" lt="0" ts="1505294960016" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1597" ng="10" na="10">
+  <httpSample t="286" it="0" lt="286" ts="1505294960017" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="287" it="1" lt="0" ts="1505294960017" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1597" ng="10" na="10">
+  <httpSample t="287" it="0" lt="287" ts="1505294960018" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="293" it="1" lt="0" ts="1505294960296" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1597" ng="10" na="10">
+  <httpSample t="293" it="0" lt="293" ts="1505294960296" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="290" it="2" lt="0" ts="1505294960298" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1597" ng="10" na="10">
+  <httpSample t="290" it="0" lt="290" ts="1505294960299" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="305" it="1" lt="0" ts="1505294960284" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1475" ng="10" na="10">
+  <httpSample t="305" it="0" lt="305" ts="1505294960284" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="299" it="1" lt="0" ts="1505294960290" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1597" ng="10" na="10">
+  <httpSample t="299" it="0" lt="299" ts="1505294960290" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="294" it="1" lt="0" ts="1505294960295" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1529" ng="10" na="10">
+  <httpSample t="294" it="0" lt="294" ts="1505294960295" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="306" it="1" lt="0" ts="1505294960283" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1529" ng="10" na="10">
+  <httpSample t="306" it="0" lt="306" ts="1505294960283" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="292" it="1" lt="0" ts="1505294960297" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1499" ng="10" na="10">
+  <httpSample t="292" it="0" lt="292" ts="1505294960297" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="302" it="1" lt="0" ts="1505294960305" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1499" ng="10" na="10">
+  <httpSample t="302" it="0" lt="302" ts="1505294960305" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="303" it="2" lt="0" ts="1505294960303" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1499" ng="10" na="10">
+  <httpSample t="303" it="0" lt="303" ts="1505294960304" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="422" it="0" lt="0" ts="1505294960591" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1499" ng="10" na="10">
+  <httpSample t="422" it="0" lt="418" ts="1505294960591" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="422" it="1" lt="0" ts="1505294960591" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1499" ng="10" na="10">
+  <httpSample t="422" it="0" lt="422" ts="1505294960592" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="738" it="0" lt="0" ts="1505294960278" s="false" lb="Impersonation" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1585" ng="10" na="10">
+  <httpSample t="738" it="0" lt="737" ts="1505294960278" s="false" lb="Cheat Login" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1585" ng="10" na="10"/>
+</sample>
+<sample t="424" it="0" lt="0" ts="1505294960592" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1499" ng="10" na="10">
+  <httpSample t="424" it="0" lt="424" ts="1505294960592" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="425" it="0" lt="0" ts="1505294960592" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1529" ng="10" na="10">
+  <httpSample t="425" it="0" lt="425" ts="1505294960592" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="427" it="0" lt="0" ts="1505294960592" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1597" ng="10" na="10">
+  <httpSample t="427" it="0" lt="426" ts="1505294960592" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="429" it="0" lt="0" ts="1505294960592" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1539" ng="10" na="10">
+  <httpSample t="429" it="0" lt="428" ts="1505294960592" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="417" it="0" lt="0" ts="1505294960609" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1539" ng="10" na="10">
+  <httpSample t="417" it="0" lt="417" ts="1505294960609" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="418" it="1" lt="0" ts="1505294960608" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1539" ng="10" na="10">
+  <httpSample t="418" it="0" lt="417" ts="1505294960609" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="309" it="2" lt="0" ts="1505294961013" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1539" ng="10" na="10">
+  <httpSample t="309" it="0" lt="309" ts="1505294961014" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="303" it="1" lt="0" ts="1505294961020" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1499" ng="10" na="10">
+  <httpSample t="303" it="0" lt="303" ts="1505294961020" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="305" it="1" lt="0" ts="1505294961018" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1597" ng="10" na="10">
+  <httpSample t="305" it="0" lt="305" ts="1505294961018" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="306" it="1" lt="0" ts="1505294961017" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1539" ng="10" na="10">
+  <httpSample t="306" it="0" lt="306" ts="1505294961017" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="307" it="1" lt="0" ts="1505294961016" s="false" lb="GetTestEnvAPI: testenv" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1483" ng="10" na="10">
+  <httpSample t="307" it="0" lt="307" ts="1505294961016" s="false" lb="GetTestEnvAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1483" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="596" it="1" lt="0" ts="1505294961014" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1539" ng="10" na="10">
+  <httpSample t="596" it="0" lt="596" ts="1505294961015" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="292" it="0" lt="0" ts="1505294961325" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1485" ng="10" na="10">
+  <httpSample t="292" it="0" lt="292" ts="1505294961325" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="292" it="1" lt="0" ts="1505294961325" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1499" ng="10" na="10">
+  <httpSample t="292" it="0" lt="292" ts="1505294961325" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="292" it="1" lt="0" ts="1505294961325" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1485" ng="10" na="10">
+  <httpSample t="292" it="0" lt="292" ts="1505294961326" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="292" it="0" lt="0" ts="1505294961326" s="false" lb="GetTaxAPI: tax" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1519" ng="10" na="10">
+  <httpSample t="292" it="0" lt="292" ts="1505294961326" s="false" lb="TaxAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="602" it="0" lt="0" ts="1505294961026" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1485" ng="10" na="10">
+  <httpSample t="602" it="0" lt="602" ts="1505294961026" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="602" it="1" lt="0" ts="1505294961027" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1485" ng="10" na="10">
+  <httpSample t="602" it="0" lt="600" ts="1505294961028" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="284" it="1" lt="0" ts="1505294961612" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1485" ng="10" na="10">
+  <httpSample t="284" it="0" lt="284" ts="1505294961612" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="286" it="0" lt="0" ts="1505294961619" s="false" lb="BenefitGetAPI: benefit" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1527" ng="10" na="10">
+  <httpSample t="286" it="0" lt="285" ts="1505294961619" s="false" lb="BenefitGetAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1527" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="286" it="1" lt="0" ts="1505294961618" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1539" ng="10" na="10">
+  <httpSample t="286" it="0" lt="286" ts="1505294961619" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="294" it="1" lt="0" ts="1505294961629" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1501" ng="10" na="10">
+  <httpSample t="294" it="0" lt="294" ts="1505294961629" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="294" it="1" lt="0" ts="1505294961631" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1501" ng="10" na="10">
+  <httpSample t="294" it="0" lt="293" ts="1505294961631" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="285" it="2" lt="0" ts="1505294961897" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1501" ng="10" na="10">
+  <httpSample t="285" it="0" lt="285" ts="1505294961898" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="564" it="1" lt="0" ts="1505294961619" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1501" ng="10" na="10">
+  <httpSample t="564" it="0" lt="564" ts="1505294961619" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="565" it="1" lt="0" ts="1505294961618" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1501" ng="10" na="10">
+  <httpSample t="565" it="0" lt="565" ts="1505294961618" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="289" it="0" lt="0" ts="1505294961905" s="false" lb="GetRegionClusterAPI: clusters" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1525" ng="10" na="10">
+  <httpSample t="289" it="0" lt="289" ts="1505294961905" s="false" lb="GetRegionClusterAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1525" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="289" it="1" lt="0" ts="1505294961926" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1501" ng="10" na="10">
+  <httpSample t="289" it="0" lt="289" ts="1505294961926" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="291" it="1" lt="0" ts="1505294961924" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1501" ng="10" na="10">
+  <httpSample t="291" it="0" lt="291" ts="1505294961924" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="1677" it="0" lt="0" ts="1505294960592" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1597" ng="10" na="10">
+  <httpSample t="1677" it="0" lt="1287" ts="1505294960592" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1597" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="288" it="1" lt="0" ts="1505294962194" s="false" lb="GetFormalCommunicationAPI: formalComm" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1503" ng="10" na="10">
+  <httpSample t="288" it="0" lt="287" ts="1505294962195" s="false" lb="FormalCommunicationAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1503" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="297" it="1" lt="0" ts="1505294962185" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1501" ng="10" na="10">
+  <httpSample t="297" it="0" lt="297" ts="1505294962185" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="576" it="2" lt="0" ts="1505294961905" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1485" ng="10" na="10">
+  <httpSample t="576" it="0" lt="576" ts="1505294961906" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="297" it="1" lt="0" ts="1505294962185" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1501" ng="10" na="10">
+  <httpSample t="297" it="0" lt="297" ts="1505294962185" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="298" it="1" lt="0" ts="1505294962184" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1501" ng="10" na="10">
+  <httpSample t="298" it="0" lt="296" ts="1505294962184" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="295" it="1" lt="0" ts="1505294962216" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1479" ng="10" na="10">
+  <httpSample t="295" it="0" lt="295" ts="1505294962216" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1479" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="295" it="1" lt="0" ts="1505294962216" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1479" ng="10" na="10">
+  <httpSample t="295" it="0" lt="295" ts="1505294962216" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1479" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="1290" it="0" lt="0" ts="1505294961325" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1539" ng="10" na="10">
+  <httpSample t="1290" it="0" lt="1290" ts="1505294961325" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="1596" it="1" lt="0" ts="1505294961022" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1485" ng="10" na="10">
+  <httpSample t="1596" it="0" lt="1593" ts="1505294961022" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="286" it="0" lt="0" ts="1505294962484" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1479" ng="10" na="10">
+  <httpSample t="286" it="0" lt="286" ts="1505294962484" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1479" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="288" it="0" lt="0" ts="1505294962484" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1501" ng="10" na="10">
+  <httpSample t="288" it="0" lt="288" ts="1505294962484" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="288" it="1" lt="0" ts="1505294962484" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1479" ng="10" na="10">
+  <httpSample t="288" it="0" lt="288" ts="1505294962484" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1479" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="629" it="1" lt="0" ts="1505294962484" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1479" ng="10" na="10">
+  <httpSample t="629" it="0" lt="627" ts="1505294962485" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1479" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="609" it="2" lt="0" ts="1505294962512" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1519" ng="10" na="10">
+  <httpSample t="609" it="0" lt="609" ts="1505294962513" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="611" it="0" lt="0" ts="1505294962512" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1519" ng="10" na="10">
+  <httpSample t="611" it="0" lt="610" ts="1505294962512" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="854" it="0" lt="0" ts="1505294962270" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1499" ng="10" na="10">
+  <httpSample t="854" it="0" lt="854" ts="1505294962270" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1499" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="507" it="0" lt="0" ts="1505294962619" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1501" ng="10" na="10">
+  <httpSample t="507" it="0" lt="507" ts="1505294962619" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="643" it="1" lt="0" ts="1505294962483" s="false" lb="GetCountriesAPI: countries" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1475" ng="10" na="10">
+  <httpSample t="643" it="0" lt="643" ts="1505294962484" s="false" lb="GetCountriesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1475" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="358" it="1" lt="0" ts="1505294962771" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1519" ng="10" na="10">
+  <httpSample t="358" it="0" lt="358" ts="1505294962771" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="356" it="1" lt="0" ts="1505294962773" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1501" ng="10" na="10">
+  <httpSample t="356" it="0" lt="356" ts="1505294962773" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1501" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="356" it="1" lt="0" ts="1505294962773" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1519" ng="10" na="10">
+  <httpSample t="356" it="0" lt="356" ts="1505294962773" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1519" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="298" it="1" lt="0" ts="1505294963128" s="false" lb="GetGeoOfficesAPI: geooffices" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1529" ng="10" na="10">
+  <httpSample t="298" it="0" lt="298" ts="1505294963128" s="false" lb="GeoOfficesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1529" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="811" it="0" lt="0" ts="1505294962616" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1485" ng="10" na="10">
+  <httpSample t="811" it="0" lt="810" ts="1505294962616" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1485" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="296" it="1" lt="0" ts="1505294963130" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1479" ng="10" na="10">
+  <httpSample t="296" it="0" lt="296" ts="1505294963130" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1479" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="295" it="2" lt="0" ts="1505294963130" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-7" dt="" by="1477" ng="10" na="10">
+  <httpSample t="295" it="0" lt="295" ts="1505294963131" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-7" dt="text" by="1477" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="301" it="2" lt="0" ts="1505294963124" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1539" ng="10" na="10">
+  <httpSample t="301" it="0" lt="301" ts="1505294963125" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1539" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="297" it="0" lt="0" ts="1505294963130" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-6" dt="" by="1477" ng="10" na="10">
+  <httpSample t="297" it="0" lt="296" ts="1505294963130" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-6" dt="text" by="1477" ng="10" na="10">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="294" it="2" lt="0" ts="1505294963428" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1485" ng="8" na="8">
+  <httpSample t="294" it="0" lt="294" ts="1505294963429" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1485" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="597" it="1" lt="0" ts="1505294963126" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1501" ng="8" na="8">
+  <httpSample t="597" it="0" lt="597" ts="1505294963126" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1501" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="600" it="1" lt="0" ts="1505294963123" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="1477" ng="8" na="8">
+  <httpSample t="600" it="0" lt="600" ts="1505294963123" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-1" dt="text" by="1477" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="295" it="1" lt="0" ts="1505294963428" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1501" ng="8" na="8">
+  <httpSample t="295" it="0" lt="295" ts="1505294963428" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1501" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="296" it="0" lt="0" ts="1505294963428" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1519" ng="8" na="8">
+  <httpSample t="296" it="0" lt="295" ts="1505294963428" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1519" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="295" it="2" lt="0" ts="1505294963427" s="false" lb="GetGeoOfficesDetailsAPI: geooffices:geoLocationCode&amp;geoClusterCode" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1597" ng="8" na="8">
+  <httpSample t="295" it="0" lt="295" ts="1505294963428" s="false" lb="GeoOfficesDetailsAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1597" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="608" it="1" lt="0" ts="1505294963115" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1519" ng="8" na="8">
+  <httpSample t="608" it="0" lt="608" ts="1505294963115" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1519" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="599" it="2" lt="0" ts="1505294963123" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-2" dt="" by="1477" ng="8" na="8">
+  <httpSample t="599" it="0" lt="599" ts="1505294963124" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-2" dt="text" by="1477" ng="8" na="8">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="473" it="1" lt="0" ts="1505294963726" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-5" dt="" by="1477" ng="6" na="6">
+  <httpSample t="473" it="0" lt="471" ts="1505294963726" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-5" dt="text" by="1477" ng="6" na="6">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="475" it="2" lt="0" ts="1505294963724" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1479" ng="5" na="5">
+  <httpSample t="475" it="0" lt="475" ts="1505294963725" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1479" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="478" it="0" lt="0" ts="1505294963724" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1501" ng="5" na="5">
+  <httpSample t="478" it="0" lt="478" ts="1505294963724" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1501" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="477" it="1" lt="0" ts="1505294963725" s="false" lb="GetHtmlExpressionAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1499" ng="5" na="5">
+  <httpSample t="477" it="0" lt="476" ts="1505294963726" s="false" lb="GeoHtmlExpressionAPI_Perf: htmlexpressions" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1499" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="480" it="0" lt="0" ts="1505294963725" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1501" ng="5" na="5">
+  <httpSample t="480" it="0" lt="478" ts="1505294963725" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1501" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="482" it="1" lt="0" ts="1505294963725" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-10" dt="" by="1477" ng="5" na="5">
+  <httpSample t="482" it="0" lt="481" ts="1505294963725" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-10" dt="text" by="1477" ng="5" na="5">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="283" it="0" lt="0" ts="1505294964205" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1479" ng="4" na="4">
+  <httpSample t="283" it="0" lt="283" ts="1505294964205" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1479" ng="4" na="4">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="286" it="0" lt="0" ts="1505294964202" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1501" ng="4" na="4">
+  <httpSample t="286" it="0" lt="286" ts="1505294964202" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1501" ng="4" na="4">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="287" it="0" lt="0" ts="1505294964201" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1519" ng="4" na="4">
+  <httpSample t="287" it="0" lt="287" ts="1505294964201" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1519" ng="4" na="4">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="285" it="0" lt="0" ts="1505294964203" s="false" lb="GetIOYMTemplatesAPI: ioymtemplates" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1539" ng="4" na="4">
+  <httpSample t="285" it="0" lt="285" ts="1505294964203" s="false" lb="GeoIOYMTemplatesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1539" ng="4" na="4">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="288" it="1" lt="0" ts="1505294964489" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1519" ng="4" na="4">
+  <httpSample t="288" it="0" lt="288" ts="1505294964489" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1519" ng="4" na="4">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="292" it="0" lt="0" ts="1505294964489" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-3" dt="" by="1477" ng="4" na="4">
+  <httpSample t="292" it="0" lt="289" ts="1505294964489" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-3" dt="text" by="1477" ng="4" na="4">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="592" it="0" lt="0" ts="1505294964489" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1479" ng="3" na="3">
+  <httpSample t="592" it="0" lt="592" ts="1505294964489" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1479" ng="3" na="3">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="592" it="0" lt="0" ts="1505294964490" s="false" lb="GetMove_typeAPI: moveType" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1485" ng="3" na="3">
+  <httpSample t="592" it="0" lt="592" ts="1505294964490" s="false" lb="MoveTypeAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1485" ng="3" na="3">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="313" it="0" lt="0" ts="1505294965082" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1519" ng="3" na="3">
+  <httpSample t="313" it="0" lt="313" ts="1505294965082" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1519" ng="3" na="3">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="312" it="1" lt="0" ts="1505294965082" s="false" lb="GetPersonAPI: persons" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1501" ng="3" na="3">
+  <httpSample t="312" it="0" lt="312" ts="1505294965083" s="false" lb="GetPersonAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1501" ng="3" na="3">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="617" it="0" lt="0" ts="1505294964778" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-9" dt="" by="1477" ng="3" na="3">
+  <httpSample t="617" it="0" lt="617" ts="1505294964778" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-9" dt="text" by="1477" ng="3" na="3">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="287" it="0" lt="0" ts="1505294965396" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-8" dt="" by="1477" ng="2" na="2">
+  <httpSample t="287" it="0" lt="287" ts="1505294965396" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-8" dt="text" by="1477" ng="2" na="2">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="287" it="0" lt="0" ts="1505294965396" s="false" lb="GetPersonByFmnoAPI: persons/v3" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1501" ng="2" na="2">
+  <httpSample t="287" it="0" lt="287" ts="1505294965396" s="false" lb="GetPersonByFmnoAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1501" ng="2" na="2">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="288" it="0" lt="0" ts="1505294965684" s="false" lb="GetRolesAPI: roles" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1479" ng="1" na="1">
+  <httpSample t="288" it="0" lt="287" ts="1505294965684" s="false" lb="GetRolesAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1479" ng="1" na="1">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="283" it="0" lt="0" ts="1505294965973" s="false" lb="TaxGetAPI" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1519" ng="1" na="1">
+  <httpSample t="283" it="0" lt="283" ts="1505294965973" s="false" lb="TaxAPI_Perf: tax" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1519" ng="1" na="1">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+<sample t="286" it="1" lt="0" ts="1505294966256" s="false" lb="GetUserAPI: user" rc="401" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-4" dt="" by="1477" ng="1" na="1">
+  <httpSample t="286" it="0" lt="286" ts="1505294966256" s="false" lb="GetUserAPI_Perf" rc="401" rm="Unauthorized" tn="Thread Group 1-4" dt="text" by="1477" ng="1" na="1">
+    <assertionResult>
+      <name>Response Assertion</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+    </assertionResult>
+  </httpSample>
+</sample>
+
+</testResults>
